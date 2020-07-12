@@ -3,6 +3,7 @@ he/him, Python, Django, Docker, Jekyll Consultant/Partner REVSYS, PSF Director, 
 <hr>
 
 ### 📝 Latest articles from [dev.to](https://dev.to/jefftriplett)
+{:.blue-500 }
 
 * Jul 03 2020 [Django News #30 - New Django & Python Releases](https://dev.to/djangonews/django-news-30-new-django-python-releases-e0p) 
 * Jun 26 2020 [Django News #29 - Wagtail Sub Teams, Django Admin 2FA and TOTP, Learning Django in 2020, and more](https://dev.to/djangonews/django-news-28-wagtail-sub-teams-django-admin-2fa-and-totp-learning-django-in-2020-and-more-jun-26th-2020-2lm2) 
