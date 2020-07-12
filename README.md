@@ -9,3 +9,10 @@ he/him, Python, Django, Docker, Jekyll Consultant/Partner REVSYS, PSF Director, 
 * Jun 20 2020 [Django News #28 - No DjangoCon US this year ☹](https://dev.to/djangonews/django-news-28-no-djangocon-us-this-year-4443) 
 * Apr 02 2020 [Django News #16 - Wagtail roadmap, lots of Django, a new(ish) JS framework that we like, and more working remote tips.](https://dev.to/djangonews/django-news-16-wagtail-roadmap-lots-of-django-a-new-ish-js-framework-that-we-like-and-more-working-remote-tips-5an3) 
 * Mar 26 2020 [Django News #15 - 🎉 Async views are in Django 3.1. What a week, please wash your hands!](https://dev.to/djangonews/django-news-issue-15-async-views-are-in-django-3-1-what-a-week-please-wash-your-hands-30g4) 
+
+```diff
+- red
++ green
+! orange
+# gray
+```
