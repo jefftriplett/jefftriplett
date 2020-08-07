@@ -1,5 +1,13 @@
 # Jeff Triplett (<a href="https://twitter.com/webology">@webology</a>)
 he/him, Python, Django, Docker, Jekyll Consultant/Partner REVSYS, PSF Director, DEFNA President, PSF Fellow, DjangoCon US Organizer, 🏀, ✨, 💪, 🏃, 🤖.
+
+<hr>
+
+## GitHub Stats
+
+![Jeff Triplett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefftriplett&show_icons=&private_count=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact)]()
+
 <hr>
 
 ### 📝 Latest articles from [dev.to](https://dev.to/jefftriplett)
