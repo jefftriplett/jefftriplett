@@ -10,11 +10,6 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 
 <hr>
 
-### :star: Focused on
-
-- [DEFNA](https://www.defna.org/)
-- [PSF](https://www.python.org/psf/members/#board-of-directors)
-
 ### 📝 Latest articles from [dev.to](https://dev.to/jefftriplett)
 
 * Jul 17 2020 [Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more.](https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g) 
