@@ -5,17 +5,16 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 
 ## Affiliations
 
-<a href="https://github.com/revsys/"><img src="https://avatars.githubusercontent.com/u/308096?s=200&v=4"></a>
-<a href="https://github.com/djangocon/"><img src="https://avatars.githubusercontent.com/u/2891658?s=400&&v=4"></a>
-<a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4"></a>
-<a href="https://github.com/defna/"><img src="https://avatars.githubusercontent.com/u/13454395?s=200&v=4"></a>
+<a href="https://github.com/revsys/"><img src="https://avatars.githubusercontent.com/u/308096?s=200&v=4" width="100px"></a>
+<a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="100px"></a>
+<a href="https://github.com/djangocon/"><img src="https://avatars.githubusercontent.com/u/2891658?s=400&&v=4" width="100px"></a>
+<a href="https://github.com/defna/"><img src="https://avatars.githubusercontent.com/u/13454395?s=200&v=4" width="100px"></a>
 
 <hr>
 
 ## GitHub Stats
 
-![Jeff Triplett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefftriplett&show_icons=&private_count=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact)]()
+![Jeff Triplett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefftriplett&show_icons=&private_count=true)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact)]()
 
 <hr>
 
