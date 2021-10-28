@@ -9,6 +9,7 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 <a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="100px"></a>
 <a href="https://github.com/djangocon/"><img src="https://avatars.githubusercontent.com/u/2891658?s=400&&v=4" width="100px"></a>
 <a href="https://github.com/defna/"><img src="https://avatars.githubusercontent.com/u/13454395?s=200&v=4" width="100px"></a>
+<a href="https://github.com/djangopackages/"><img src="https://avatars.githubusercontent.com/u/27385825?s=200&v=4" width="100px"></a>
 
 <hr>
 
