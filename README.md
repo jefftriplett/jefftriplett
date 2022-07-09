@@ -22,6 +22,11 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [DjangoCon US Talks I’d Like to See: 2022 Edition](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2022&#x2F;djangocon-us-talks-i-d-like-to-see-2022-edition&#x2F;)
+* [Enable sudo without a password on MacOS](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2022&#x2F;enable-sudo-without-a-password-on-macos&#x2F;)
+* [October 3rd, 2021](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2021&#x2F;sunday-morning-coffee-notes-october-3rd-2021&#x2F;)
+* [September 26th, 2021](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2021&#x2F;sunday-morning-coffee-notes-september-26th-2021&#x2F;)
+* [Side Projects: Email is a Pain](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2021&#x2F;side-projects-email-is-a-pain&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
