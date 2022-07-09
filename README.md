@@ -19,15 +19,22 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 
 <hr>
 
-## Django News
+## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
+
+<hr>
+
+## Recent Django News
+
+<!--START_SECTION:news-->
 * [Django News - Django security releases issued: 4.0.6 and 3.2.14 - Jul 8th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;135)
 * [Django News - 2022 Campaign Results - Jul 1st 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;134)
 * [Django News - Django 4.1 beta 1 released - Jun 24th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;133)
 * [Django News - Last Chance for a DjangoCon Europe 2023 - Jun 17th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;132)
 * [Django News - Python Developers Survey 2021 Results - Jun 10th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;131)
-<!--END_SECTION:posts-->
+<!--END_SECTION:news-->
 
 [DEFNA]: https://www.defna.org/
 [DjangoCon US]: http://djangocon.us/

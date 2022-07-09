@@ -14,5 +14,9 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://django-news.com/issues.rss
+          feed-url: https://feeds.feedburner.com/JeffTriplett
           readme-section: posts
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://django-news.com/issues.rss
+          readme-section: news
