@@ -7,13 +7,25 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 
 <table border="0">
 <tr>
-<td><a href="https://github.com/revsys/"><img src="https://avatars.githubusercontent.com/u/308096?s=200&v=4" width="100px"></a><br>@revsys</td>
+<td><a href="https://github.com/revsys/"><img src="https://avatars.githubusercontent.com/u/308096?s=200&v=4" width="100px"></a></td>
 <td><a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="100px"></a></td>
 <td><a href="https://github.com/djangocon/"><img src="https://avatars.githubusercontent.com/u/2891658?s=400&&v=4" width="100px"></a></td>
 <td><a href="https://github.com/defna/"><img src="https://avatars.githubusercontent.com/u/13454395?s=200&v=4" width="100px"></a></td>
 <td><a href="https://github.com/djangopackages/"><img src="https://avatars.githubusercontent.com/u/27385825?s=200&v=4" width="100px"></a></td>
 </tr>
 </table>
+
+<hr>
+
+## Recent Django News
+
+<!--START_SECTION:news-->
+* [Django News - Heroku Eliminates Free Tiers - Aug 26th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;142)
+* [Django News - Understanding Async Python &amp; Django - Aug 19th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;141)
+* [Django News - DjangoCongress JP 2022 Call For Proposals - Aug 12th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;140)
+* [Django News - Django 4.1 Released - Aug 5th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;139)
+* [Django News - Python 3.11.0b5 and a new Wagtail CMS book - Jul 29th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;138)
+<!--END_SECTION:news-->
 
 <hr>
 
@@ -34,16 +46,6 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 <!--END_SECTION:posts-->
 
 <hr>
-
-## Recent Django News
-
-<!--START_SECTION:news-->
-* [Django News - Heroku Eliminates Free Tiers - Aug 26th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;142)
-* [Django News - Understanding Async Python &amp; Django - Aug 19th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;141)
-* [Django News - DjangoCongress JP 2022 Call For Proposals - Aug 12th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;140)
-* [Django News - Django 4.1 Released - Aug 5th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;139)
-* [Django News - Python 3.11.0b5 and a new Wagtail CMS book - Jul 29th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;138)
-<!--END_SECTION:news-->
 
 [DEFNA]: https://www.defna.org/
 [DjangoCon US]: http://djangocon.us/
