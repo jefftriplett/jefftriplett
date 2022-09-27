@@ -20,11 +20,11 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - 2022 Django Developers Survey and DRF 3.14 - Sep 23rd 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;146)
+* [Django News - Python 3.11 Last Call Before Release - Sep 16th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;145)
+* [Django News - Django 4.1.1 Bugfix Release - Sep 9th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;144)
+* [Django News - Wagtail 4.0 released - Sep 2nd 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;143)
 * [Django News - Heroku Eliminates Free Tiers - Aug 26th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;142)
-* [Django News - Understanding Async Python &amp; Django - Aug 19th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;141)
-* [Django News - DjangoCongress JP 2022 Call For Proposals - Aug 12th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;140)
-* [Django News - Django 4.1 Released - Aug 5th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;139)
-* [Django News - Python 3.11.0b5 and a new Wagtail CMS book - Jul 29th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;138)
 <!--END_SECTION:news-->
 
 <hr>
