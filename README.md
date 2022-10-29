@@ -20,11 +20,11 @@ he/him - Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - Python 3.11 released - Oct 28th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;151)
 * [Django News - Django Developers Survey 2022 Last Call! - Oct 21st 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;150)
 * [Django News - Django Unicorn Chat - Oct 14th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;149)
 * [Django News - Django security releases: 4.1.2, 4.0.8, and 3.2.16 - Oct 7th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;148)
 * [Django News - Heroku Alternatives for Django Apps - Sep 30th 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;147)
-* [Django News - 2022 Django Developers Survey and DRF 3.14 - Sep 23rd 2022](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;146)
 <!--END_SECTION:news-->
 
 <hr>
