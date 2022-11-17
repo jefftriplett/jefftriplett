@@ -15,9 +15,11 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
+          empty-commits: false
           feed-url: https://feeds.feedburner.com/JeffTriplett
           readme-section: posts
       - uses: JasonEtco/rss-to-readme@v1
         with:
+          empty-commits: false
           feed-url: https://django-news.com/issues.rss
           readme-section: news
