@@ -34,7 +34,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 ## GitHub Stats
 
-![Jeff Triplett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefftriplett&show_icons=&private_count=true)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact)]()
+![Jeff Triplett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefftriplett&show_icons=&private_count=true&theme=dracula)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact&theme=dracula)]()
 
 <hr>
 
