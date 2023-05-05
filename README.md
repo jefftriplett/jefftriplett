@@ -23,11 +23,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - Django security releases: 4.2.1, 4.1.9, 3.2.19 - May 5th 2023](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;178)
 * [Django News - Django 5.x Technical Board Candidate Registration - Apr 28th 2023](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;177)
 * [Django News - Django 5.x Technical Board Election Registration - Apr 21st 2023](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;176)
 * [Django News - htmx 1.9.0 released - Apr 14th 2023](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;175)
 * [Django News - Django 4.2 released - Apr 7th 2023](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;174)
-* [Django News - Django Behind The Scenes - Mar 31st 2023](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;173)
 <!--END_SECTION:news-->
 
 <hr>
