@@ -20,6 +20,13 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <hr>
 
+## Recent Micro Blog Posts
+
+<!--START_SECTION:micro-posts-->
+<!--END_SECTION:micro-posts-->
+
+<hr>
+
 ## Recent Django News
 
 <!--START_SECTION:news-->
