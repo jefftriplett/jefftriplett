@@ -28,3 +28,4 @@ jobs:
           empty-commits: false
           feed-url: https://micro.webology.dev/feed.xml
           readme-section: micro-posts
+          max: 10
