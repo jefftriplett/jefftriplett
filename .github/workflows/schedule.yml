@@ -23,3 +23,8 @@ jobs:
           empty-commits: false
           feed-url: https://django-news.com/issues.rss
           readme-section: news
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          empty-commits: false
+          feed-url: https://micro.webology.dev/feed.xml
+          readme-section: micro-posts
