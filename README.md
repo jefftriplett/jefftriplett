@@ -28,6 +28,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [Fixing a CSS layout issue](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;21&#x2F;fixing-a-css.html)
 * [🤖 On Robots.txt](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;20&#x2F;on-robotstxt.html)
 * [Justfile Alfred Plugin](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;19&#x2F;justfile-alfred-plugin.html)
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;18&#x2F;the-gentlemen-i.html)
+* [Weeknotes for Week 11: March 11 to March 17](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;18&#x2F;weeknotes-for-week.html)
+* [🍕 On tortilla pizza](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;17&#x2F;on-tortilla-pizza.html)
+* [🏡 On Gardening](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;16&#x2F;on-gardening.html)
+* [Five for Friyay](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;15&#x2F;five-for-friyay.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
