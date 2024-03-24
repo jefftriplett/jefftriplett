@@ -23,6 +23,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [On scratching itches with Python](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;23&#x2F;on-scratching-itches.html)
+* [Automated Python and Django upgrades](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;22&#x2F;automated-python-and.html)
+* [Fixing a CSS layout issue](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;21&#x2F;fixing-a-css.html)
+* [🤖 On Robots.txt](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;20&#x2F;on-robotstxt.html)
+* [Justfile Alfred Plugin](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;19&#x2F;justfile-alfred-plugin.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
