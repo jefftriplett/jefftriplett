@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [Things I can never remember how to do: Django Signals edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;25&#x2F;things-i-can.html)
 * [2024-W12 - Weeknotes for Week 12: March 18 to March 24](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;24&#x2F;w-weeknotes-for.html)
 * [On scratching itches with Python](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;23&#x2F;on-scratching-itches.html)
 * [Automated Python and Django upgrades](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;22&#x2F;automated-python-and.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;18&#x2F;the-gentlemen-i.html)
 * [Weeknotes for Week 11: March 11 to March 17](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;18&#x2F;weeknotes-for-week.html)
 * [🍕 On tortilla pizza](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;17&#x2F;on-tortilla-pizza.html)
-* [🏡 On Gardening](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;16&#x2F;on-gardening.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
