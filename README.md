@@ -23,6 +23,8 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🚨 No office hours this week due to the holiday 🚨](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;28&#x2F;no-office-hours.html)
+* [On backups and building a portable backup drive solution](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;28&#x2F;on-backups-and.html)
 * [On Syncthing and multiple devices](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;27&#x2F;on-syncthing-and.html)
 * [Django Chat recording today](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;26&#x2F;django-chat-recording.html)
 * [Things I can never remember how to do: Django Signals edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;25&#x2F;things-i-can.html)
@@ -31,8 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [Automated Python and Django upgrades](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;22&#x2F;automated-python-and.html)
 * [Fixing a CSS layout issue](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;21&#x2F;fixing-a-css.html)
 * [🤖 On Robots.txt](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;20&#x2F;on-robotstxt.html)
-* [Justfile Alfred Plugin](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;19&#x2F;justfile-alfred-plugin.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;18&#x2F;the-gentlemen-i.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
