@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [xz update: Don&#39;t do this](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;30&#x2F;xz-update-dont.html)
 * [⬆️ Update and upgrade Homebrew and &#x60;xz&#x60; versions](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;29&#x2F;update-and-upgrade.html)
 * [🚨 No office hours this week due to the holiday 🚨](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;28&#x2F;no-office-hours.html)
 * [On backups and building a portable backup drive solution](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;28&#x2F;on-backups-and.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [2024-W12 - Weeknotes for Week 12: March 18 to March 24](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;24&#x2F;w-weeknotes-for.html)
 * [On scratching itches with Python](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;23&#x2F;on-scratching-itches.html)
 * [Automated Python and Django upgrades](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;22&#x2F;automated-python-and.html)
-* [Fixing a CSS layout issue](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;21&#x2F;fixing-a-css.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
