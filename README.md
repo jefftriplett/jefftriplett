@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;02&#x2F;til-brandolinis-law.html)
 * [🔥 An update on OpenSSF&#39;s XZ fumble](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;01&#x2F;an-update-on.html)
 * [6️⃣0️⃣ Sixty days of blogging ✍️ ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;31&#x2F;sixty-days-of.html)
 * [xz update: Don&#39;t do this](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;30&#x2F;xz-update-dont.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [On Syncthing and multiple devices](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;27&#x2F;on-syncthing-and.html)
 * [Django Chat recording today](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;26&#x2F;django-chat-recording.html)
 * [Things I can never remember how to do: Django Signals edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;25&#x2F;things-i-can.html)
-* [2024-W12 - Weeknotes for Week 12: March 18 to March 24](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;24&#x2F;w-weeknotes-for.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
