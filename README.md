@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📋 Copy All Urls browser extension](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;09&#x2F;copy-all-urls.html)
 * [🐳 Docker and OrbStack disk cleanup notes ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;08&#x2F;docker-and-orbstack.html)
 * [📖 Weeknotes for Week 14: April 1 to April 7](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;07&#x2F;weeknotes-for-week.html)
 * [🚜 Refactoring and fiddling with Django migrations for pending pull requests 🐘](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;06&#x2F;refactoring-and-fiddling.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;02&#x2F;til-brandolinis-law.html)
 * [🔥 An update on OpenSSF&#39;s XZ fumble](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;01&#x2F;an-update-on.html)
 * [6️⃣0️⃣ Sixty days of blogging ✍️ ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;31&#x2F;sixty-days-of.html)
-* [xz update: Don&#39;t do this](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;03&#x2F;30&#x2F;xz-update-dont.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
