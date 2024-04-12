@@ -23,6 +23,8 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;11&#x2F;fallout-everybody-else.html)
+* [📌 On leaving Pinboard, aka Raindrop, is better 🤷](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;11&#x2F;on-leaving-pinboard.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;10&#x2F;xmen-watching-the.html)
 * [🐛 Production bugs happen to everyone](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;10&#x2F;production-bugs-happen.html)
 * [📋 Copy All Urls browser extension](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;09&#x2F;copy-all-urls.html)
@@ -31,8 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🚜 Refactoring and fiddling with Django migrations for pending pull requests 🐘](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;06&#x2F;refactoring-and-fiddling.html)
 * [⛳ Syncing Django Waffle feature flags](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;05&#x2F;syncing-django-waffle.html)
 * [⬆️ The Upgrade Django project](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;04&#x2F;the-upgrade-django.html)
-* [🚀 Mise is really fast](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;03&#x2F;mise-is-really.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;02&#x2F;til-brandolinis-law.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
