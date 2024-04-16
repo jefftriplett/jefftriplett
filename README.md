@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📓 Weeknotes for Week 15: April 8 to April 14](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;15&#x2F;weeknotes-for-week.html)
 * [🧱 Dear Tech Companies: Two-year-old edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;14&#x2F;dear-tech-companies.html)
 * [🙋 How often do you use Django&#39;s startproject and startapp?](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;13&#x2F;how-often-do.html)
 * [📅 Office Hours on April 19th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;12&#x2F;office-hours-on.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🐛 Production bugs happen to everyone](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;10&#x2F;production-bugs-happen.html)
 * [📋 Copy All Urls browser extension](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;09&#x2F;copy-all-urls.html)
 * [🐳 Docker and OrbStack disk cleanup notes ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;08&#x2F;docker-and-orbstack.html)
-* [📖 Weeknotes for Week 14: April 1 to April 7](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;07&#x2F;weeknotes-for-week.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
