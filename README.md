@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🧰 Rustywind and pre-commit take the edge off of Tailwind CSS](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;16&#x2F;rustywind-and-precommit.html)
 * [📓 Weeknotes for Week 15: April 8 to April 14](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;15&#x2F;weeknotes-for-week.html)
 * [🧱 Dear Tech Companies: Two-year-old edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;14&#x2F;dear-tech-companies.html)
 * [🙋 How often do you use Django&#39;s startproject and startapp?](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;13&#x2F;how-often-do.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;10&#x2F;xmen-watching-the.html)
 * [🐛 Production bugs happen to everyone](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;10&#x2F;production-bugs-happen.html)
 * [📋 Copy All Urls browser extension](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;09&#x2F;copy-all-urls.html)
-* [🐳 Docker and OrbStack disk cleanup notes ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;08&#x2F;docker-and-orbstack.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
