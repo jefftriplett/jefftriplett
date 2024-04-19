@@ -40,11 +40,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - PyPI Expanding Trusted Publisher Support - Apr 19th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;228)
 * [Django News - Open Source Week - Apr 12th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;227)
 * [Django News - Django 5.0.4 bugfix release - Apr 5th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;226)
 * [Django News - 🎉 Sarah &quot;New Django Fellow!&quot; Boyce 🎉 - Mar 29th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;225)
 * [Django News - Django REST Framework 3.15  - Mar 22nd 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;224)
-* [Django News - NGI Zero Grant for django-allauth - Mar 15th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;223)
 <!--END_SECTION:news-->
 
 <hr>
