@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 Super Bot Fight 🥊](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;18&#x2F;super-bot-fight.html)
 * [🚀 Starship is the shell prompt you have been looking for 🐚](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;17&#x2F;starship-is-the.html)
 * [🧰 Rustywind and pre-commit take the edge off of Tailwind CSS](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;16&#x2F;rustywind-and-precommit.html)
 * [📓 Weeknotes for Week 15: April 8 to April 14](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;15&#x2F;weeknotes-for-week.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;11&#x2F;fallout-everybody-else.html)
 * [📌 On leaving Pinboard, aka Raindrop, is better 🤷](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;11&#x2F;on-leaving-pinboard.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;10&#x2F;xmen-watching-the.html)
-* [🐛 Production bugs happen to everyone](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;10&#x2F;production-bugs-happen.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
