@@ -23,6 +23,8 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;20&#x2F;glass-i-watched.html)
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;20&#x2F;split-i-noticed.html)
 * [❤️ Untitled Friday post](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;19&#x2F;untitled-friday-post.html)
 * [🤖 Super Bot Fight 🥊](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;18&#x2F;super-bot-fight.html)
 * [🚀 Starship is the shell prompt you have been looking for 🐚](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;17&#x2F;starship-is-the.html)
@@ -31,8 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🧱 Dear Tech Companies: Two-year-old edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;14&#x2F;dear-tech-companies.html)
 * [🙋 How often do you use Django&#39;s startproject and startapp?](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;13&#x2F;how-often-do.html)
 * [📅 Office Hours on April 19th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;12&#x2F;office-hours-on.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;11&#x2F;fallout-everybody-else.html)
-* [📌 On leaving Pinboard, aka Raindrop, is better 🤷](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;11&#x2F;on-leaving-pinboard.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
