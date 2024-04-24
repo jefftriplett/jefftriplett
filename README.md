@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🐳 GitHub Actions Cleaning up old Docker container images](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;23&#x2F;github-actions-cleaning.html)
 * [📰 Quick Django News #228&#x2F;#229 update tonight](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;22&#x2F;quick-django-news.html)
 * [🎮  TIL Nintendo Switch Game KVM](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;21&#x2F;til-nintendo-switch.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;20&#x2F;glass-i-watched.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🚀 Starship is the shell prompt you have been looking for 🐚](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;17&#x2F;starship-is-the.html)
 * [🧰 Rustywind and pre-commit take the edge off of Tailwind CSS](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;16&#x2F;rustywind-and-precommit.html)
 * [📓 Weeknotes for Week 15: April 8 to April 14](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;15&#x2F;weeknotes-for-week.html)
-* [🧱 Dear Tech Companies: Two-year-old edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;14&#x2F;dear-tech-companies.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
