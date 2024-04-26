@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🖖 On Open Sourcing DOS 4](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;25&#x2F;on-open-sourcing.html)
 * [📅 Office Hours on April 26th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;24&#x2F;office-hours-on.html)
 * [🐳 GitHub Actions Cleaning up old Docker container images](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;23&#x2F;github-actions-cleaning.html)
 * [📰 Quick Django News #228&#x2F;#229 update tonight](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;22&#x2F;quick-django-news.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [❤️ Untitled Friday post](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;19&#x2F;untitled-friday-post.html)
 * [🤖 Super Bot Fight 🥊](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;18&#x2F;super-bot-fight.html)
 * [🚀 Starship is the shell prompt you have been looking for 🐚](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;17&#x2F;starship-is-the.html)
-* [🧰 Rustywind and pre-commit take the edge off of Tailwind CSS](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;16&#x2F;rustywind-and-precommit.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
