@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [💸 Alphabet has never been more profitable](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;29&#x2F;alphabet-has-never.html)
 * [💚 DjangoCon US Talks I&#39;d Like to See 2024 Edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;28&#x2F;djangocon-us-talks.html)
 * [🔥 Drop Google Chrome and try out Vivaldi for a week, I dare you ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;27&#x2F;drop-google-chrome.html)
 * [🖱️ On Trackballs. I need one. 🪤](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;26&#x2F;on-trackpads-i.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📰 Quick Django News #228&#x2F;#229 update tonight](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;22&#x2F;quick-django-news.html)
 * [🎮  TIL Nintendo Switch Game KVM](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;21&#x2F;til-nintendo-switch.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;20&#x2F;glass-i-watched.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;20&#x2F;split-i-noticed.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
