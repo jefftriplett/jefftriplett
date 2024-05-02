@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📅 Office Hours on May 3rd](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;01&#x2F;office-hours-on.html)
 * [🎒 Everyone struggles with Django&#39;s static files](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;30&#x2F;everyone-struggles-with.html)
 * [💸 Alphabet has never been more profitable](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;29&#x2F;alphabet-has-never.html)
 * [💚 DjangoCon US Talks I&#39;d Like to See 2024 Edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;28&#x2F;djangocon-us-talks.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📅 Office Hours on April 26th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;24&#x2F;office-hours-on.html)
 * [🐳 GitHub Actions Cleaning up old Docker container images](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;23&#x2F;github-actions-cleaning.html)
 * [📰 Quick Django News #228&#x2F;#229 update tonight](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;22&#x2F;quick-django-news.html)
-* [🎮  TIL Nintendo Switch Game KVM](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;21&#x2F;til-nintendo-switch.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
