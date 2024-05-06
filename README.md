@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🎙️ Randy Travis and Ethical AI](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;05&#x2F;randy-travis-and.html)
 * [🎸 On Pearl Jam&#39;s Dark Matter interviews](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;04&#x2F;on-pearl-jams.html)
 * [🚜 De-googling update 📉](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;03&#x2F;degoogling-update.html)
 * [😬 This week was a grind](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;02&#x2F;this-week-was.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [💚 DjangoCon US Talks I&#39;d Like to See 2024 Edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;28&#x2F;djangocon-us-talks.html)
 * [🔥 Drop Google Chrome and try out Vivaldi for a week, I dare you ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;27&#x2F;drop-google-chrome.html)
 * [🖱️ On Trackballs. I need one. 🪤](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;26&#x2F;on-trackpads-i.html)
-* [🖖 On Open Sourcing DOS 4](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;25&#x2F;on-open-sourcing.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
