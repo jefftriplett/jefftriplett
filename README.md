@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📚 African tech book drive at PyCon US](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;09&#x2F;african-tech-book.html)
 * [👥 Office Hours on May 10th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;08&#x2F;office-hours-on.html)
 * [🎸 Jason Isbell and the 400 Unit at Liberty Hall](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;07&#x2F;223140.html)
 * [🌪️ Tornado Watch tonight](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;06&#x2F;205515.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [😬 This week was a grind](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;02&#x2F;this-week-was.html)
 * [📅 Office Hours on May 3rd](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;01&#x2F;office-hours-on.html)
 * [🎒 Everyone struggles with Django&#39;s static files](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;30&#x2F;everyone-struggles-with.html)
-* [💸 Alphabet has never been more profitable](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;04&#x2F;29&#x2F;alphabet-has-never.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
