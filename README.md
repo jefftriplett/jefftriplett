@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📭 On vacation autoresponders and deleting email](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;11&#x2F;on-vacation-autoresponders.html)
 * [🐍 TIL build-and-inspect-python-package GitHub Action workflow plus some bonus Nox + Tox](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;10&#x2F;til-buildandinspectpythonpackage-github.html)
 * [📚 African tech book drive at PyCon US](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;09&#x2F;african-tech-book.html)
 * [👥 Office Hours on May 10th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;08&#x2F;office-hours-on.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🎸 On Pearl Jam&#39;s Dark Matter interviews](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;04&#x2F;on-pearl-jams.html)
 * [🚜 De-googling update 📉](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;03&#x2F;degoogling-update.html)
 * [😬 This week was a grind](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;02&#x2F;this-week-was.html)
-* [📅 Office Hours on May 3rd](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;01&#x2F;office-hours-on.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
