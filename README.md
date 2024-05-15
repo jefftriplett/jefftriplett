@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📝 On Hashtag Accessibility](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;14&#x2F;on-hashtag-accessibility.html)
 * [✨ How to rearrange #Vivaldi extensions in the the extension panel. ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;how-to-rearrange.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;til-that-vivaldi.html)
 * [📓 Weeknotes for Week 19: May 6 to May 12](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;12&#x2F;weeknotes-for-week.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [👥 Office Hours on May 10th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;08&#x2F;office-hours-on.html)
 * [🎸 Jason Isbell and the 400 Unit at Liberty Hall](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;07&#x2F;223140.html)
 * [🌪️ Tornado Watch tonight](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;06&#x2F;205515.html)
-* [🎙️ Randy Travis and Ethical AI](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;05&#x2F;randy-travis-and.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
