@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🍔 PyCon US, have it your way (you rule!)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;16&#x2F;pycon-us-have.html)
 * [PyCon US Bound](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;15&#x2F;pycon-us-bound.html)
 * [📝 On Hashtag Accessibility](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;14&#x2F;on-hashtag-accessibility.html)
 * [✨ How to rearrange #Vivaldi extensions in the the extension panel. ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;how-to-rearrange.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🐍 TIL build-and-inspect-python-package GitHub Action workflow plus some bonus Nox + Tox](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;10&#x2F;til-buildandinspectpythonpackage-github.html)
 * [📚 African tech book drive at PyCon US](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;09&#x2F;african-tech-book.html)
 * [👥 Office Hours on May 10th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;08&#x2F;office-hours-on.html)
-* [🎸 Jason Isbell and the 400 Unit at Liberty Hall](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;07&#x2F;223140.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
