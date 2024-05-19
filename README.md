@@ -23,6 +23,8 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📱 Waking up to a blank iPhone 14 screen](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;19&#x2F;waking-up-to.html)
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;18&#x2F;pierogicon-was-a.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;17&#x2F;two-django-developers.html)
 * [🍔 PyCon US, have it your way (you rule!)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;16&#x2F;pycon-us-have.html)
 * [PyCon US Bound](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;15&#x2F;pycon-us-bound.html)
@@ -31,8 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;til-that-vivaldi.html)
 * [📓 Weeknotes for Week 19: May 6 to May 12](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;12&#x2F;weeknotes-for-week.html)
 * [📭 On vacation autoresponders and deleting email](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;11&#x2F;on-vacation-autoresponders.html)
-* [🐍 TIL build-and-inspect-python-package GitHub Action workflow plus some bonus Nox + Tox](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;10&#x2F;til-buildandinspectpythonpackage-github.html)
-* [📚 African tech book drive at PyCon US](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;09&#x2F;african-tech-book.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
