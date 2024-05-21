@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [💼 Packing and unpacking](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;20&#x2F;packing-and-unpacking.html)
 * [👋 Let&#39;s meet at #PyConUS](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;19&#x2F;lets-meet-at.html)
 * [📱 Waking up to a blank iPhone 14 screen](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;19&#x2F;waking-up-to.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;18&#x2F;pierogicon-was-a.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📝 On Hashtag Accessibility](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;14&#x2F;on-hashtag-accessibility.html)
 * [✨ How to rearrange #Vivaldi extensions in the the extension panel. ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;how-to-rearrange.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;til-that-vivaldi.html)
-* [📓 Weeknotes for Week 19: May 6 to May 12](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;12&#x2F;weeknotes-for-week.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
