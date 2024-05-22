@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📆 Office Hours Returns](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;21&#x2F;office-hours-returns.html)
 * [💼 Packing and unpacking](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;20&#x2F;packing-and-unpacking.html)
 * [👋 Let&#39;s meet at #PyConUS](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;19&#x2F;lets-meet-at.html)
 * [📱 Waking up to a blank iPhone 14 screen](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;19&#x2F;waking-up-to.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [PyCon US Bound](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;15&#x2F;pycon-us-bound.html)
 * [📝 On Hashtag Accessibility](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;14&#x2F;on-hashtag-accessibility.html)
 * [✨ How to rearrange #Vivaldi extensions in the the extension panel. ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;how-to-rearrange.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;13&#x2F;til-that-vivaldi.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
