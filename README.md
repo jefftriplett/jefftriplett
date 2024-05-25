@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [⌨️ My writing workflow or what works for me](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;24&#x2F;my-writing-workflow.html)
 * [🎮 RetroArch on iPhone and iPad](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;23&#x2F;retroarch-on-iphone.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;23&#x2F;dave-the-diver.html)
 * [✨ What&#39;s new in Django 5.1](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;22&#x2F;whats-new-in.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📱 Waking up to a blank iPhone 14 screen](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;19&#x2F;waking-up-to.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;18&#x2F;pierogicon-was-a.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;17&#x2F;two-django-developers.html)
-* [🍔 PyCon US, have it your way (you rule!)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;16&#x2F;pycon-us-have.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
