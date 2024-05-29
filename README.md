@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;28&#x2F;allergies-or-whatever.html)
 * [🏡 This old house, Monday edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;27&#x2F;this-old-house.html)
 * [🔋 My django-startproject project updates](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;26&#x2F;my-djangostartproject-project.html)
 * [📚 Universal Principles of Typography book review](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;25&#x2F;universal-principles-of.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [✨ What&#39;s new in Django 5.1](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;22&#x2F;whats-new-in.html)
 * [📆 Office Hours Returns](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;21&#x2F;office-hours-returns.html)
 * [💼 Packing and unpacking](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;20&#x2F;packing-and-unpacking.html)
-* [👋 Let&#39;s meet at #PyConUS](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;19&#x2F;lets-meet-at.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
