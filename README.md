@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;30&#x2F;thirtyfour-to-zero.html)
 * [🙅 No Office Hours this week](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;29&#x2F;no-office-hours.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;28&#x2F;allergies-or-whatever.html)
 * [🏡 This old house, Monday edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;27&#x2F;this-old-house.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🎮 RetroArch on iPhone and iPad](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;23&#x2F;retroarch-on-iphone.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;23&#x2F;dave-the-diver.html)
 * [✨ What&#39;s new in Django 5.1](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;22&#x2F;whats-new-in.html)
-* [📆 Office Hours Returns](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;21&#x2F;office-hours-returns.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
