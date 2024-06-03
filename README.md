@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📓 Weeknotes for Week 22: May 27 to June 2](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;02&#x2F;weeknotes-for-week.html)
 * [🎨 Slash Pages](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;slash-pages.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;godzilla-minus-one.html)
 * [📝 On EchoFeed](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;31&#x2F;on-echofeed.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🏡 This old house, Monday edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;27&#x2F;this-old-house.html)
 * [🔋 My django-startproject project updates](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;26&#x2F;my-djangostartproject-project.html)
 * [📚 Universal Principles of Typography book review](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;25&#x2F;universal-principles-of.html)
-* [⌨️ My writing workflow or what works for me](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;24&#x2F;my-writing-workflow.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
