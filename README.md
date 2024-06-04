@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🍿 On the Google leak](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;03&#x2F;on-the-google.html)
 * [📓 Weeknotes for Week 22: May 27 to June 2](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;02&#x2F;weeknotes-for-week.html)
 * [🎨 Slash Pages](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;slash-pages.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;godzilla-minus-one.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;28&#x2F;allergies-or-whatever.html)
 * [🏡 This old house, Monday edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;27&#x2F;this-old-house.html)
 * [🔋 My django-startproject project updates](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;26&#x2F;my-djangostartproject-project.html)
-* [📚 Universal Principles of Typography book review](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;25&#x2F;universal-principles-of.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
