@@ -23,6 +23,8 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [# 2024-06-05 📅 Office Hours](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;05&#x2F;office-hours.html)
+* [👤 Bartender Mac App PSA](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;04&#x2F;bartender-mac-app.html)
 * [🍿 On the Google leak](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;03&#x2F;on-the-google.html)
 * [📓 Weeknotes for Week 22: May 27 to June 2](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;02&#x2F;weeknotes-for-week.html)
 * [🎨 Slash Pages](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;slash-pages.html)
@@ -31,8 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;30&#x2F;thirtyfour-to-zero.html)
 * [🙅 No Office Hours this week](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;29&#x2F;no-office-hours.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;28&#x2F;allergies-or-whatever.html)
-* [🏡 This old house, Monday edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;27&#x2F;this-old-house.html)
-* [🔋 My django-startproject project updates](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;26&#x2F;my-djangostartproject-project.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
