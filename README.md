@@ -23,8 +23,9 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🎮 Planet of Lana](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;07&#x2F;planet-of-lana.html)
 * [🧊 Bartender Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;06&#x2F;bartender-update.html)
-* [# 2024-06-05 📅 Office Hours](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;05&#x2F;office-hours.html)
+* [2024-06-05 📅 Office Hours](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;05&#x2F;office-hours.html)
 * [👤 Bartender Mac App PSA](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;04&#x2F;bartender-mac-app.html)
 * [🍿 On the Google leak](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;03&#x2F;on-the-google.html)
 * [📓 Weeknotes for Week 22: May 27 to June 2](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;02&#x2F;weeknotes-for-week.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;godzilla-minus-one.html)
 * [📝 On EchoFeed](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;31&#x2F;on-echofeed.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;30&#x2F;thirtyfour-to-zero.html)
-* [🙅 No Office Hours this week](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;29&#x2F;no-office-hours.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
