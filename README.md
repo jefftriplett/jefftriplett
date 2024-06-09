@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🧱 Django ModelForm Template starting point](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;08&#x2F;django-modelform-template.html)
 * [🎮 Planet of Lana](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;07&#x2F;planet-of-lana.html)
 * [🧊 Bartender Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;06&#x2F;bartender-update.html)
 * [2024-06-05 📅 Office Hours](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;05&#x2F;office-hours.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🎨 Slash Pages](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;slash-pages.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;01&#x2F;godzilla-minus-one.html)
 * [📝 On EchoFeed](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;31&#x2F;on-echofeed.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;05&#x2F;30&#x2F;thirtyfour-to-zero.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
