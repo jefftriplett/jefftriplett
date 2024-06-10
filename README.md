@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [✨ Enhancing My Digital Workflow with Echofeed](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;enhancing-my-digital-workflow-with-echofeed&#x2F;)
 * [🧱 Django ModelForm Template starting point](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;django-modelform-template-starting-point&#x2F;)
 * [🎮 Planet of Lana](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;planet-of-lana&#x2F;)
 * [Weeknotes 2023-W52](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2023&#x2F;weeknotes-2023-w52&#x2F;)
 * [Default Apps 2023](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2023&#x2F;default-apps-2023&#x2F;)
-* [DjangoCon US Talks I’d Like to See: 2023 Edition](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2023&#x2F;djangocon-us-talks-i-d-like-to-see-2023-edition&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
