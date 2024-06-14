@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🍩 Office Hours Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;13&#x2F;office-hours-update.html)
 * [📦 Amazon delivery: A true story](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;12&#x2F;amazon-delivery-a.html)
 * [📅 Office Hours Summer Schedule](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;12&#x2F;office-hours-summer.html)
 * [🦙 Exploring Ollama: An Open-Source LLM (my notes)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;11&#x2F;exploring-ollama-an.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🎮 Planet of Lana](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;07&#x2F;planet-of-lana.html)
 * [🧊 Bartender Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;06&#x2F;bartender-update.html)
 * [2024-06-05 📅 Office Hours](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;05&#x2F;office-hours.html)
-* [👤 Bartender Mac App PSA](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;04&#x2F;bartender-mac-app.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
