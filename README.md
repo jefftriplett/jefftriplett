@@ -59,10 +59,10 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <!--START_SECTION:posts-->
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;2024-06-11-exploring-ollama-an-open-source-llm-my-notes&#x2F;)
+* [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;2024-06-12-amazon-delivery-a-true-story&#x2F;)
+* [🍩 Office Hours Update](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-update&#x2F;)
 * [📅 Office Hours Summer Schedule](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-summer-schedule&#x2F;)
 * [🏗️ Slash pages and recent website changes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;slash-pages-and-recent-website-changes&#x2F;)
-* [✨ Enhancing My Digital Workflow with Echofeed](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;enhancing-my-digital-workflow-with-echofeed&#x2F;)
-* [🧱 Django ModelForm Template starting point](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;django-modelform-template-starting-point&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
