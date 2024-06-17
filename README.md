@@ -60,9 +60,9 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 <!--START_SECTION:posts-->
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;2024-06-11-exploring-ollama-an-open-source-llm-my-notes&#x2F;)
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;2024-06-12-amazon-delivery-a-true-story&#x2F;)
+* [🤖 AI companies are becoming bad neighbors](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;ai-companies-are-becoming-bad-neighbors&#x2F;)
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;)
 * [🤖 More Blocking Bots with Django ❌](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;more-blocking-bots-with-django&#x2F;)
-* [🍩 Office Hours Update](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-update&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
