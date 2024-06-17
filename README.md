@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 AI companies are becoming bad neighbors](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;16&#x2F;ai-companies-are.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;15&#x2F;colorado-springs-this.html)
 * [🤖 More Blocking Bots with Django ❌](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;14&#x2F;more-blocking-bots.html)
 * [🍩 Office Hours Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;13&#x2F;office-hours-update.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🏗️ Slash pages and recent website changes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;10&#x2F;slash-pages-and.html)
 * [✨ Enhancing My Digital Workflow with Echofeed](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;09&#x2F;enhancing-my-digital.html)
 * [🧱 Django ModelForm Template starting point](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;08&#x2F;django-modelform-template.html)
-* [🎮 Planet of Lana](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;07&#x2F;planet-of-lana.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
