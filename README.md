@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [💜 Follow Black Python Devs on Juneteenth](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;19&#x2F;follow-black-python.html)
 * [Djangonaut Space has begun](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;17&#x2F;djangonaut-space-has.html)
 * [🤖 AI companies are becoming bad neighbors](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;16&#x2F;ai-companies-are.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;15&#x2F;colorado-springs-this.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📅 Office Hours Summer Schedule](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;12&#x2F;office-hours-summer.html)
 * [🦙 Exploring Ollama: An Open-Source LLM (my notes)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;11&#x2F;exploring-ollama-an.html)
 * [🏗️ Slash pages and recent website changes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;10&#x2F;slash-pages-and.html)
-* [✨ Enhancing My Digital Workflow with Echofeed](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;09&#x2F;enhancing-my-digital.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
