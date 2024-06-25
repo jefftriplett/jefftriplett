@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🚜 Mastodon Bookmark exporter to Markdown&#x2F;Frontmatter](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;24&#x2F;mastodon-bookmark-exporter.html)
 * [Weeknotes for Week 25: June 17 to 23](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;23&#x2F;weeknotes-for-week.html)
 * [💜 Follow Black Python Devs on Juneteenth](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;19&#x2F;follow-black-python.html)
 * [Djangonaut Space has begun](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;17&#x2F;djangonaut-space-has.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🍩 Office Hours Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;13&#x2F;office-hours-update.html)
 * [📦 Amazon delivery: A true story](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;12&#x2F;amazon-delivery-a.html)
 * [📅 Office Hours Summer Schedule](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;12&#x2F;office-hours-summer.html)
-* [🦙 Exploring Ollama: An Open-Source LLM (my notes)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;11&#x2F;exploring-ollama-an.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
