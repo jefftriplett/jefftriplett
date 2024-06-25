@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🚜 Mastodon Bookmark exporter to Markdown&#x2F;Frontmatter](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;mastodon-bookmark-exporter-to-markdown-frontmatter&#x2F;)
 * [Weeknotes for Week 25: June 17 to 23](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-25-june-17-to-23&#x2F;)
 * [💜 Follow Black Python Devs on Juneteenth](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;follow-black-python-devs-on-juneteenth&#x2F;)
 * [Djangonaut Space has begun](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;djangonaut-space-has-begun&#x2F;)
 * [🤖 AI companies are becoming bad neighbors](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;ai-companies-are-becoming-bad-neighbors&#x2F;)
-* [🏔️ Colorado Spring](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;colorado-spring&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
