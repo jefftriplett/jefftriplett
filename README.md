@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📅 Office Hours for June 28th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;27&#x2F;office-hours-for.html)
 * [🐳 Managing Docker Compose Profiles with Just: Switching Between Default and Celery Configurations](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;25&#x2F;managing-docker-compose.html)
 * [🚜 Mastodon Bookmark exporter to Markdown&#x2F;Frontmatter](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;24&#x2F;mastodon-bookmark-exporter.html)
 * [Weeknotes for Week 25: June 17 to 23](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;23&#x2F;weeknotes-for-week.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;15&#x2F;colorado-springs-this.html)
 * [🤖 More Blocking Bots with Django ❌](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;14&#x2F;more-blocking-bots.html)
 * [🍩 Office Hours Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;13&#x2F;office-hours-update.html)
-* [📦 Amazon delivery: A true story](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;12&#x2F;amazon-delivery-a.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
