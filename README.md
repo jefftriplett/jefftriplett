@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🐘 Docker Postgres Autoupgrades](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;docker-postgres-autoupgrades&#x2F;)
 * [🐘 A Just recipe to back and restore a Postgres database](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;a-just-recipe-to-back-and-restore-a-postgres-database&#x2F;)
 * [📅 Office Hours for June 8th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-for-june-8th&#x2F;)
 * [🐳 Managing Docker Compose Profiles with Just: Switching Between Default and Celery Configurations](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;managing-docker-compose-profiles-with-just-switching-between-default-and-celery-configurations&#x2F;)
 * [🚜 Mastodon Bookmark exporter to Markdown&#x2F;Frontmatter](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;mastodon-bookmark-exporter-to-markdown-frontmatter&#x2F;)
-* [Weeknotes for Week 25: June 17 to 23](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-25-june-17-to-23&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
