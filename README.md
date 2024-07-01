@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🐳 Using Just and Compose for interactive Django and Python debugging sessions](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;30&#x2F;using-just-and.html)
 * [🐘 Docker Postgres Autoupgrades](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;29&#x2F;docker-postgres-autoupgrades.html)
 * [🐘 A Just recipe to backup and restore a Postgres database](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;28&#x2F;a-just-recipe.html)
 * [📅 Office Hours for June 28th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;27&#x2F;office-hours-for.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [💜 Follow Black Python Devs on Juneteenth](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;19&#x2F;follow-black-python.html)
 * [Djangonaut Space has begun](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;17&#x2F;djangonaut-space-has.html)
 * [🤖 AI companies are becoming bad neighbors](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;16&#x2F;ai-companies-are.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;15&#x2F;colorado-springs-this.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
