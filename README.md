@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🗳️ PSF Elections how I am voting](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;psf-elections-how-i-am-voting&#x2F;)
 * [💬 On the PSF Bylaw changes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;on-the-psf-bylaw-changes&#x2F;)
 * [📓 Weeknotes for Week 26: June 24 to 30](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-26-june-24-to-30&#x2F;)
 * [🐳 Using Just and Compose for interactive Django and Python debugging sessions](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;using-just-and-compose-for-interactive-django-and-python-debugging-sessions&#x2F;)
 * [🐘 Docker Postgres Autoupgrades](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;docker-postgres-autoupgrades&#x2F;)
-* [🐳 Using Just and Compose for interactive Django and Python debugging sessions](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;using-just-and-compose-for-interactive-django-and-python-debugging-sessions&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
