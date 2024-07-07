@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [Django Extensions is useful even if you only use show_urls](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;06&#x2F;django-extensions-is.html)
 * [📅 No Office Hours on July 5th, but... ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;05&#x2F;no-office-hours.html)
 * [🎆 🤖 Happy AIndependence Day](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;04&#x2F;happy-aindependence-day.html)
 * [🗳️ PSF Elections how I am voting](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;03&#x2F;psf-elections-how.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🐘 Docker Postgres Autoupgrades](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;29&#x2F;docker-postgres-autoupgrades.html)
 * [🐘 A Just recipe to backup and restore a Postgres database](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;28&#x2F;a-just-recipe.html)
 * [📅 Office Hours for June 28th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;27&#x2F;office-hours-for.html)
-* [🐳 Managing Docker Compose Profiles with Just: Switching Between Default and Celery Configurations](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;06&#x2F;25&#x2F;managing-docker-compose.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
