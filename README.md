@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🧰 More fun with Django Extensions using &#x60;shell_plus&#x60; and &#x60;graph_models&#x60;](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;more-fun-with-django-extensions-using-shell-plus-and-graph-models&#x2F;)
 * [Django Extensions is useful even if you only use show_urls](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;django-extensions-is-useful-even-if-you-only-use-show-urls&#x2F;)
 * [📅 No Office Hours on July 5th, but…](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;no-office-hours-on-july-5th-but&#x2F;)
 * [🎆 🤖 Happy AIndependence Day](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;happy-aindependence-day&#x2F;)
 * [🗳️ PSF Elections how I am voting](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;psf-elections-how-i-am-voting&#x2F;)
-* [💬 On the PSF Bylaw changes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;on-the-psf-bylaw-changes&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
