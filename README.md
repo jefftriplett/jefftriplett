@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [📅 Office Hours for July 12th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-for-july-12th&#x2F;)
 * [🔓 Sharing is Caring: How a Simple Sudo Question Led to Better Solutions](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;sharing-is-caring-how-a-simple-sudo-question-led-to-better-solutions&#x2F;)
 * [📓 Weeknotes for Week 27: July 1 to 7](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-27-july-1-to-7&#x2F;)
 * [🧰 More fun with Django Extensions using &#x60;shell_plus&#x60; and &#x60;graph_models&#x60;](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;more-fun-with-django-extensions-using-shell-plus-and-graph-models&#x2F;)
 * [Django Extensions is useful even if you only use show_urls](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;django-extensions-is-useful-even-if-you-only-use-show-urls&#x2F;)
-* [📅 No Office Hours on July 5th, but…](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;no-office-hours-on-july-5th-but&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
