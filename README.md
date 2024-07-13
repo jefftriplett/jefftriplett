@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🚜 macOS Bartender app to Ice app](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;12&#x2F;macos-bartender-app.html)
 * [🎮 8BitDo Golden&#x2F;Silver Limited Edition controllers](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;11&#x2F;bitdo-goldensilver-limited.html)
 * [📅 Office Hours for July 12th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;10&#x2F;office-hours-for.html)
 * [🔓 Sharing is Caring: How a Simple Sudo Question Led to Better Solutions](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;09&#x2F;sharing-is-caring.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📅 No Office Hours on July 5th, but... ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;05&#x2F;no-office-hours.html)
 * [🎆 🤖 Happy AIndependence Day](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;04&#x2F;happy-aindependence-day.html)
 * [🗳️ PSF Elections how I am voting](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;03&#x2F;psf-elections-how.html)
-* [💬 On the PSF Bylaw changes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;02&#x2F;on-the-psf.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
