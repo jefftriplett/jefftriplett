@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🔥 Why I deleted Firefox from my machines this weekend](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;why-i-deleted-firefox-from-my-machines-this-weekend&#x2F;)
 * [🦆 DuckDB may be the tool you didn’t know you were missing](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;duckdb-may-be-the-tool-you-didn-t-know-you-were-missing&#x2F;)
 * [🚜 macOS Bartender app to Ice app](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;macos-bartender-app-to-ice-app&#x2F;)
 * [🎮 8BitDo Golden&#x2F;Silver Limited Edition controllers](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;8bitdo-golden-silver-limited-edition-controllers&#x2F;)
 * [📅 Office Hours for July 12th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-for-july-12th&#x2F;)
-* [🔓 Sharing is Caring: How a Simple Sudo Question Led to Better Solutions](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;sharing-is-caring-how-a-simple-sudo-question-led-to-better-solutions&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
