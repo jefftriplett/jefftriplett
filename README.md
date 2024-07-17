@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🗳️ My thoughts on the PSF Election results](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;16&#x2F;my-thoughts-on.html)
 * [🐘 Django Migration Operations aka how to rename Models](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;15&#x2F;django-migration-operations.html)
 * [🔥 Why I deleted Firefox from my machines this weekend](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;14&#x2F;why-i-deleted.html)
 * [🦆 DuckDB may be the tool you didn&#39;t know you were missing](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;12&#x2F;duckdb-may-be.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🔓 Sharing is Caring: How a Simple Sudo Question Led to Better Solutions](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;09&#x2F;sharing-is-caring.html)
 * [📓 Weeknotes for Week 27: July 1 to 7](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;08&#x2F;weeknotes-for-week.html)
 * [🧰 More fun with Django Extensions using &#x60;shell_plus&#x60; and &#x60;graph_models&#x60;](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;07&#x2F;more-fun-with.html)
-* [Django Extensions is useful even if you only use show_urls](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;06&#x2F;django-extensions-is.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
