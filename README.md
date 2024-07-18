@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [📅 I am hosting Office Hours this Friday, July 19th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;i-am-hosting-office-hours-this-friday-july-19th&#x2F;)
 * [🗳️ My thoughts on the PSF Election results](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;my-thoughts-on-the-psf-election-results&#x2F;)
 * [🐘 Django Migration Operations aka how to Rename Tables](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;django-migration-operations-aka-how-to-rename-tables&#x2F;)
 * [🔥 Why I deleted Firefox from my machines this weekend](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;why-i-deleted-firefox-from-my-machines-this-weekend&#x2F;)
 * [🦆 DuckDB may be the tool you didn’t know you were missing](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;duckdb-may-be-the-tool-you-didn-t-know-you-were-missing&#x2F;)
-* [🚜 macOS Bartender app to Ice app](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;macos-bartender-app-to-ice-app&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
