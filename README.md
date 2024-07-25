@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🦙 Ollama Llama 3.1 Red Pajama](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;ollama-llama-3-1-red-pajama&#x2F;)
 * [🔄 What to do when your iPad won’t turn off or is frozen](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;what-to-do-when-your-ipad-won-t-turn-off-or-is-frozen&#x2F;)
 * [📓 Weeknotes for Week 28: July 8 to 14](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-28-july-8-to-14&#x2F;)
 * [📅 I am hosting Office Hours this Friday, July 19th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;i-am-hosting-office-hours-this-friday-july-19th&#x2F;)
 * [🗳️ My thoughts on the PSF Election results](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;my-thoughts-on-the-psf-election-results&#x2F;)
-* [🐘 Django Migration Operations aka how to Rename Tables](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;django-migration-operations-aka-how-to-rename-tables&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
