@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🦙 Ollama Tool Calling Loose Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;26&#x2F;ollama-tool-calling.html)
 * [📅 Office Hours this Friday, July 26th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;25&#x2F;office-hours-this.html)
 * [🦙 Ollama Llama 3.1 Red Pajama ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;24&#x2F;ollama-llama-red.html)
 * [🔄 What to do when your iPad won&#39;t turn off or is frozen](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;21&#x2F;what-to-do.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🐘 Django Migration Operations aka how to rename Models](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;15&#x2F;django-migration-operations.html)
 * [🔥 Why I deleted Firefox from my machines this weekend](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;14&#x2F;why-i-deleted.html)
 * [🦆 DuckDB may be the tool you didn&#39;t know you were missing](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;12&#x2F;duckdb-may-be.html)
-* [🚜 macOS Bartender app to Ice app](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;12&#x2F;macos-bartender-app.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
