@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🧐 Of course, Google is a monopoly](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;of-course-google-is-a-monopoly&#x2F;)
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;)
 * [📌 Pinboard… what a waste](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;pinboard-what-a-waste&#x2F;)
 * [🦙 Ollama Tool Calling Loose Notes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;ollama-tool-calling-loose-notes&#x2F;)
 * [📅 Office Hours this Friday, July 26th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-this-friday-july-26th&#x2F;)
-* [🦙 Ollama Llama 3.1 Red Pajama](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;ollama-llama-3-1-red-pajama&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
