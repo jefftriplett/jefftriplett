@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🔍 Google Search speculation 🔥](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;06&#x2F;google-search-speculation.html)
 * [🧐 Of course, Google is a monopoly](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;05&#x2F;of-course-google.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;03&#x2F;kingdom-of-the.html)
 * [📌 Pinboard... what a waste](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;02&#x2F;pinboard-what-a.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🔄 What to do when your iPad won&#39;t turn off or is frozen](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;21&#x2F;what-to-do.html)
 * [📓 Weeknotes for Week 28: July 8 to 14](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;20&#x2F;weeknotes-for-week.html)
 * [📅 I am hosting Office Hours this Friday, July 19th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;17&#x2F;i-am-hosting.html)
-* [🗳️ My thoughts on the PSF Election results](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;16&#x2F;my-thoughts-on.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
