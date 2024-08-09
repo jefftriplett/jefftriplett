@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [💼 Office Hours this Friday, August 9th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;08&#x2F;office-hours-this.html)
 * [⬆️ Which Django and Python versions should I be using today? ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;07&#x2F;which-django-and.html)
 * [🔍 Google Search speculation 🔥](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;06&#x2F;google-search-speculation.html)
 * [🧐 Of course, Google is a monopoly](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;05&#x2F;of-course-google.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📅 Office Hours this Friday, July 26th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;25&#x2F;office-hours-this.html)
 * [🦙 Ollama Llama 3.1 Red Pajama ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;24&#x2F;ollama-llama-red.html)
 * [🔄 What to do when your iPad won&#39;t turn off or is frozen](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;21&#x2F;what-to-do.html)
-* [📓 Weeknotes for Week 28: July 8 to 14](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;20&#x2F;weeknotes-for-week.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
