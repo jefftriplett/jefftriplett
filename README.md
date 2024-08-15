@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🎻 Tiny Desk Concert Wednesday with Sierra Ferrell](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;tiny-desk-concert-wednesday-with-sierra-ferrell&#x2F;)
 * [💼 Office Hours this Friday, August 9th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-this-friday-august-9th&#x2F;)
 * [⬆️ Which Django and Python versions should I be using today?](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;which-django-and-python-versions-should-i-be-using-today&#x2F;)
 * [🔍 Google Search speculation 🔥](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;google-search-speculation&#x2F;)
 * [🧐 Of course, Google is a monopoly](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;of-course-google-is-a-monopoly&#x2F;)
-* [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
