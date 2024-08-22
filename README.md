@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🐍 UV Updates and PEP 723: Simplifying Python Packaging and Scripting](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;21&#x2F;uv-updates-and.html)
 * [🔥 Breaking Up Google](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;14&#x2F;breaking-up-google.html)
 * [🎻 Tiny Desk Concert Wednesday with Sierra Ferrell](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;14&#x2F;tiny-desk-concert.html)
 * [💼 Office Hours this Friday, August 9th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;08&#x2F;office-hours-this.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;03&#x2F;kingdom-of-the.html)
 * [📌 Pinboard... what a waste](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;02&#x2F;pinboard-what-a.html)
 * [🦙 Ollama Tool Calling Loose Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;26&#x2F;ollama-tool-calling.html)
-* [📅 Office Hours this Friday, July 26th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;07&#x2F;25&#x2F;office-hours-this.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
