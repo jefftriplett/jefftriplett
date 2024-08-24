@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [📓 UV Run Django Notes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;uv-run-django-notes&#x2F;)
 * [🐍 Python UV run with shebangs](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;python-uv-run-with-shebangs&#x2F;)
 * [🐍 UV Updates and PEP 723: Simplifying Python Packaging and Scripting](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;uv-updates-and-pep-723-simplifying-python-packaging-and-scripting&#x2F;)
 * [🔥 Breaking Up Google](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;breaking-up-google&#x2F;)
 * [🎻 Tiny Desk Concert Wednesday with Sierra Ferrell](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;tiny-desk-concert-wednesday-with-sierra-ferrell&#x2F;)
-* [💼 Office Hours this Friday, August 9th](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-this-friday-august-9th&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
