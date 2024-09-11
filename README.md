@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🚜 On Evolving Django&#39;s &#x60;auth.User&#x60; model](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;10&#x2F;on-evolving-djangos.html)
 * [🚫 Stop scheduling security updates and deprecating major features over holidays](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;03&#x2F;stop-scheduling-security.html)
 * [🌡️ How a $20 Camera Outsmarted My Fancy Thermometer](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;25&#x2F;how-a-camera.html)
 * [🚜 Using Claude 3.5 Sonnet to refactor one of Brian Okken&#39;s Python projects](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;25&#x2F;using-claude-sonnet.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🔥 Breaking Up Google](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;14&#x2F;breaking-up-google.html)
 * [🎻 Tiny Desk Concert Wednesday with Sierra Ferrell](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;14&#x2F;tiny-desk-concert.html)
 * [💼 Office Hours this Friday, August 9th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;08&#x2F;office-hours-this.html)
-* [⬆️ Which Django and Python versions should I be using today? ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;07&#x2F;which-django-and.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
