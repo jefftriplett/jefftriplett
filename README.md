@@ -23,6 +23,8 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📅 Office Hours Fall Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;12&#x2F;office-hours-fall.html)
+* [🛌 On travel tips BYOP aka bring your own pillow](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;11&#x2F;on-travel-tips.html)
 * [🚜 On Evolving Django&#39;s &#x60;auth.User&#x60; model](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;10&#x2F;on-evolving-djangos.html)
 * [🚫 Stop scheduling security updates and deprecating major features over holidays](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;03&#x2F;stop-scheduling-security.html)
 * [🌡️ How a $20 Camera Outsmarted My Fancy Thermometer](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;25&#x2F;how-a-camera.html)
@@ -31,8 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🐍 Python UV run with shebangs](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;22&#x2F;python-uv-run.html)
 * [🐍 UV Updates and PEP 723: Simplifying Python Packaging and Scripting](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;21&#x2F;uv-updates-and.html)
 * [🔥 Breaking Up Google](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;14&#x2F;breaking-up-google.html)
-* [🎻 Tiny Desk Concert Wednesday with Sierra Ferrell](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;14&#x2F;tiny-desk-concert.html)
-* [💼 Office Hours this Friday, August 9th](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;08&#x2F;office-hours-this.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
