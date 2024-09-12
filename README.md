@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🛌 On travel tips BYOP aka bring your own pillow](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;on-travel-tips-byop-aka-bring-your-own-pillow&#x2F;)
 * [🚜 On Evolving Django’s &#x60;auth.User&#x60; model](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;on-evolving-django-s-auth-user-model&#x2F;)
 * [🚫 Stop scheduling security updates and deprecating major features over holidays](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;stop-scheduling-security-updates-and-deprecating-major-features-over-holidays&#x2F;)
 * [🌡️ How a $20 Camera Outsmarted My Fancy Thermometer](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;how-a-20-camera-outsmarted-my-fancy-thermometer&#x2F;)
 * [🚜 Using Claude 3.5 Sonnet to refactor one of Brian Okken’s Python projects](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;using-claude-3-5-sonnet-to-refactor-one-of-brian-okken-s-python-projects&#x2F;)
-* [📓 UV Run Django Notes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;uv-run-django-notes&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
