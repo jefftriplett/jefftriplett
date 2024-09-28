@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🎉 Announcing DjangoTV](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;27&#x2F;announcing-djangotv.html)
 * [🧳 DjangoCon US, Black Python Devs Leadership Summit, and Django Girls Durham](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;20&#x2F;djangocon-us-black.html)
 * [🤠 UV Roundup: Five good articles and a pre-commit tip](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;19&#x2F;uv-roundup-five.html)
 * [📅 Office Hours Fall Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;12&#x2F;office-hours-fall.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🌡️ How a $20 Camera Outsmarted My Fancy Thermometer](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;25&#x2F;how-a-camera.html)
 * [🚜 Using Claude 3.5 Sonnet to refactor one of Brian Okken&#39;s Python projects](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;25&#x2F;using-claude-sonnet.html)
 * [📓 UV Run Django Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;23&#x2F;uv-run-django.html)
-* [🐍 Python UV run with shebangs](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;08&#x2F;22&#x2F;python-uv-run.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
