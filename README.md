@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🎉 Announcing DjangoTV](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;announcing-djangotv&#x2F;)
 * [🧳 DjangoCon US, Black Python Devs Leadership Summit, and Django Girls Durham](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;djangocon-us-black-python-devs-leadership-summit-and-django-girls-durham&#x2F;)
 * [🤠 UV Roundup: Five good articles and a pre-commit tip](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;uv-roundup-five-good-articles-and-a-pre-commit-tip&#x2F;)
 * [📅 Office Hours Fall Update](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-fall-update&#x2F;)
 * [🛌 On travel tips BYOP aka bring your own pillow](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;on-travel-tips-byop-aka-bring-your-own-pillow&#x2F;)
-* [🚜 On Evolving Django’s &#x60;auth.User&#x60; model](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;on-evolving-django-s-auth-user-model&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
