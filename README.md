@@ -1,6 +1,6 @@
 # Jeff Triplett (he/him)
 
-Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][], [PSF Director][], [DEFNA][], PSF Fellow, [DjangoCon US][] Organizer, 🏀, ✨, 💪, 🏃, 🤖.
+Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][], former [PSF Director][], [DEFNA][], [PSF Fellow][], [DjangoCon US][] Organizer, 🏀, ✨, 💪, 🏃, 🤖.
 
 <a href="https://twitter.com/webology">@webology</a> or <a href="https://mastodon.social/@webology" rel="me">`@webology@mastodon.social` on Mastodon</a>
 
@@ -71,3 +71,4 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 [DjangoCon US]: http://djangocon.us/
 [PSF Director]: https://www.python.org/psf/members/#board-of-directors
 [REVSYS]: https://www.revsys.com/
+[PSF Fellow]: https://www.python.org/psf/fellows/
