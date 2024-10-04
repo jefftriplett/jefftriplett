@@ -2,7 +2,7 @@
 
 Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][], former [PSF Director][], [DEFNA][], [PSF Fellow][], [DjangoCon US][] Organizer, 🏀, ✨, 💪, 🏃, 🤖.
 
-<a href="https://twitter.com/webology">@webology</a> or <a href="https://mastodon.social/@webology" rel="me">`@webology@mastodon.social` on Mastodon</a>
+<a href="https://mastodon.social/@webology" rel="me">`@webology@mastodon.social` on Mastodon</a> or <a href="https://twitter.com/webology">@webology</a>
 
 <hr>
 
