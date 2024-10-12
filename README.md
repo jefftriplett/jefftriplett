@@ -23,7 +23,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;11&#x2F;bad-monkey-i.html)
 * [📅 Office Hours for October](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;10&#x2F;office-hours-october.html)
 * [⚙️ UV with GitHub Actions to run an RSS to README project](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;05&#x2F;uv-with-github.html)
 * [🎉 Announcing DjangoTV](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;27&#x2F;announcing-djangotv.html)
