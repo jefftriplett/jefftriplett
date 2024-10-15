@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🎮 The Legend of Zelda: Echoes of Wisdom review 👍](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;14&#x2F;the-legend-of.html)
 * [🤖 I released files-to-claude-xml and new development workflows](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;12&#x2F;i-released-filestoclaudexml.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;11&#x2F;bad-monkey-i.html)
 * [📅 Office Hours for October](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;10&#x2F;office-hours-october.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🤠 UV Roundup: Five good articles and a pre-commit tip](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;19&#x2F;uv-roundup-five.html)
 * [📅 Office Hours Fall Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;12&#x2F;office-hours-fall.html)
 * [🛌 On travel tips BYOP aka bring your own pillow](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;11&#x2F;on-travel-tips.html)
-* [🚜 On Evolving Django&#39;s &#x60;auth.User&#x60; model](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;10&#x2F;on-evolving-djangos.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
