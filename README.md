@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🎮 The Legend of Zelda: Echoes of Wisdom review 👍](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;the-legend-of-zelda-echoes-of-wisdom-review&#x2F;)
 * [🤖 I released files-to-claude-xml and new development workflows](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;i-released-files-to-claude-xml-and-new-development-workflows&#x2F;)
 * [📺 Bad Monkey](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;bad-monkey&#x2F;)
 * [📅 Office Hours for October](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-for-october&#x2F;)
 * [UV with GitHub Actions to run an RSS to README project](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;uv-with-github-actions-to-run-an-rss-to-readme-project&#x2F;)
-* [🎉 Announcing DjangoTV](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;announcing-djangotv&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
