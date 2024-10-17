@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📓 My notes on publishing a Python package with UV and building a custom GitHub Action for files-to-claude-xml ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;16&#x2F;my-notes-on.html)
 * [🎮 The Legend of Zelda: Echoes of Wisdom review 👍](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;14&#x2F;the-legend-of.html)
 * [🤖 I released files-to-claude-xml and new development workflows](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;12&#x2F;i-released-filestoclaudexml.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;11&#x2F;bad-monkey-i.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🧳 DjangoCon US, Black Python Devs Leadership Summit, and Django Girls Durham](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;20&#x2F;djangocon-us-black.html)
 * [🤠 UV Roundup: Five good articles and a pre-commit tip](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;19&#x2F;uv-roundup-five.html)
 * [📅 Office Hours Fall Update](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;12&#x2F;office-hours-fall.html)
-* [🛌 On travel tips BYOP aka bring your own pillow](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;11&#x2F;on-travel-tips.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
