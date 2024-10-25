@@ -40,11 +40,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - Last chance to run for the DSF Board - Oct 25th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;256)
 * [Django News - DSF Weekly Office Hours - Oct 18th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;255)
 * [Django News - Python 3.13 and Django 5.1.2 bugfix released - Oct 11th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;254)
 * [Django News - 2025 DSF Board Nominations - Oct 4th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;253)
 * [Django News - 2025 DSF Board Nominations - Sep 27th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;252)
-* [Django News - 2024 Malcolm Tredinnick Prize nominations - Sep 20th 2024](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;251)
 <!--END_SECTION:news-->
 
 <hr>
