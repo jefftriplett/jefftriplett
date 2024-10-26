@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [📝 Even &quot;bad&quot; code is admirable](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;25&#x2F;even-bad-code.html)
 * [TIL Justfiles can also be Just Scripts ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;23&#x2F;til-justfiles-can.html)
 * [📓 My notes on publishing a Python package with UV and building a custom GitHub Action for files-to-claude-xml ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;16&#x2F;my-notes-on.html)
 * [🎮 The Legend of Zelda: Echoes of Wisdom review 👍](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;14&#x2F;the-legend-of.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [⚙️ UV with GitHub Actions to run an RSS to README project](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;05&#x2F;uv-with-github.html)
 * [🎉 Announcing DjangoTV](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;27&#x2F;announcing-djangotv.html)
 * [🧳 DjangoCon US, Black Python Devs Leadership Summit, and Django Girls Durham](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;20&#x2F;djangocon-us-black.html)
-* [🤠 UV Roundup: Five good articles and a pre-commit tip](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;09&#x2F;19&#x2F;uv-roundup-five.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
