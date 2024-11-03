@@ -59,10 +59,10 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <!--START_SECTION:posts-->
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;2024-10-25-even-bad-code-is-admirable&#x2F;)
+* [Please publish and share more](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;please-publish-and-share-more&#x2F;)
 * [TIL Justfiles can also be Just Scripts](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;til-justfiles-can-also-be-just-scripts&#x2F;)
 * [📓 My notes on publishing a Python package with UV and building a custom GitHub Action for files-to-claude-xml](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;my-notes-on-publishing-a-python-package-with-uv-and-building-a-custom-github-action-for-files-to-claude-xml&#x2F;)
 * [🎮 The Legend of Zelda: Echoes of Wisdom review 👍](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;the-legend-of-zelda-echoes-of-wisdom-review&#x2F;)
-* [🤖 I released files-to-claude-xml and new development workflows](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;i-released-files-to-claude-xml-and-new-development-workflows&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
