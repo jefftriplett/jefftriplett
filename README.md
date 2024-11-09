@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🔥 The best &quot;Animated This is Fine ZOOM Background&quot; using UV and YT-DLP](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;08&#x2F;the-best-animated.html)
 * [📅 Office Hours this Friday and probably next Friday, but lets just take it one day at a time](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;07&#x2F;office-hours-this.html)
 * [🤷 UV does everything or enough that I&#39;m not sure what else it needs to do](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;03&#x2F;uv-does-everything.html)
 * [Please publish and share more](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;02&#x2F;please-publish-and.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🎮 The Legend of Zelda: Echoes of Wisdom review 👍](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;14&#x2F;the-legend-of.html)
 * [🤖 I released files-to-claude-xml and new development workflows](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;12&#x2F;i-released-filestoclaudexml.html)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;11&#x2F;bad-monkey-i.html)
-* [📅 Office Hours for October](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;10&#x2F;office-hours-october.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
