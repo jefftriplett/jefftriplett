@@ -59,10 +59,10 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <!--START_SECTION:posts-->
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;2024-10-25-even-bad-code-is-admirable&#x2F;)
+* [📺 A Man on the Inside](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;a-man-on-the-inside&#x2F;)
 * [📅 Office Hours for November and December 2024](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-for-november-and-december-2024&#x2F;)
 * [🔥 The best](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;the-best&#x2F;)
 * [📅 Office Hours this Friday and probably next Friday, but lets just take it one day at a time](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;office-hours-this-friday-and-probably-next-friday-but-lets-just-take-it-one-day-at-a-time&#x2F;)
-* [🤷 UV does everything or enough that I’m not sure what else it needs to do](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;uv-does-everything-or-enough-that-i-m-not-sure-what-else-it-needs-to-do&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
