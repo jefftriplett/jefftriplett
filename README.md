@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [New project to shorten django-admin to django because we are not monsters](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;14&#x2F;new-project-to.html)
 * [📓 Weeknotes for Week 48: November 25 to December 1](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;01&#x2F;weeknotes-for-week.html)
 * [📓 Weeknotes for Week 47: November 18 to 24](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;25&#x2F;weeknotes-for-week.html)
 * [📺 A Man on the Inside](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;22&#x2F;a-man-on.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🤷 UV does everything or enough that I&#39;m not sure what else it needs to do](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;03&#x2F;uv-does-everything.html)
 * [Please publish and share more](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;02&#x2F;please-publish-and.html)
 * [📝 Even &quot;bad&quot; code is admirable](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;25&#x2F;even-bad-code.html)
-* [TIL Justfiles can also be Just Scripts ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;10&#x2F;23&#x2F;til-justfiles-can.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
