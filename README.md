@@ -59,10 +59,10 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <!--START_SECTION:posts-->
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;2024-10-25-even-bad-code-is-admirable&#x2F;)
+* [🤷 Why do the Django and Python communities use so many Google Forms?](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;why-do-the-django-and-python-communities-use-so-many-google-forms&#x2F;)
 * [New project to shorten django-admin to django because we are not monsters](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;new-project-to-shorten-django-admin-to-django-because-we-are-not-monsters&#x2F;)
 * [📓 Weeknotes for Week 48: November 25 to December 1](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-48-november-25-to-december-1&#x2F;)
 * [📓 Weeknotes for Week 47: November 18 to 24](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-47-november-18-to-24&#x2F;)
-* [📺 A Man on the Inside](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;a-man-on-the-inside&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
