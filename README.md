@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;31&#x2F;github-stars-are-only-good.html)
 * [🎄 Weeknotes for Week 51: December 15 to December 21](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;22&#x2F;weeknotes-for-week-december-to.html)
 * [🗓️ December 21, 2024, is Volunteer Responsibility Amnesty Day](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;20&#x2F;december-is-volunteer.html)
 * [Default Apps 2024](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;19&#x2F;default-apps.html)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📓 Weeknotes for Week 47: November 18 to 24](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;25&#x2F;weeknotes-for-week.html)
 * [📺 A Man on the Inside](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;22&#x2F;a-man-on.html)
 * [📅 Office Hours for November and December 2024](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;19&#x2F;office-hours-for.html)
-* [🔥 The best &quot;Animated This is Fine ZOOM Background&quot; using UV and YT-DLP](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;08&#x2F;the-best-animated.html)
 <!--END_SECTION:micro-posts-->
 
 <hr>
