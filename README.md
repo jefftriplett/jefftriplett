@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🎊 Year in review (short version) - It was a good year](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;year-in-review-short-version-it-was-a-good-year&#x2F;)
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;)
 * [🎄 Weeknotes for Week 51: December 15 to December 21](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-51-december-15-to-december-21&#x2F;)
 * [🗓️ December 21, 2024, is Volunteer Responsibility Amnesty Day](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;december-21-2024-is-volunteer-responsibility-amnesty-day&#x2F;)
 * [Default Apps 2024](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;default-apps-2024&#x2F;)
-* [🤷 Why do the Django and Python communities use so many Google Forms?](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;why-do-the-django-and-python-communities-use-so-many-google-forms&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
