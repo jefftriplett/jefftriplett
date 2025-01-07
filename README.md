@@ -23,16 +23,16 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
-* [🐚 My most used commands in my terminal history](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;02&#x2F;my-most-used-commands-in.html)
-* [🎊 Year in review (short version) - It was a good year](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;01&#x2F;year-in-review-short-version.html)
-* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;31&#x2F;github-stars-are-only-good.html)
-* [🎄 Weeknotes for Week 51: December 15 to December 21](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;22&#x2F;weeknotes-for-week-december-to.html)
-* [🗓️ December 21, 2024, is Volunteer Responsibility Amnesty Day](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;20&#x2F;december-is-volunteer.html)
-* [Default Apps 2024](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;19&#x2F;default-apps.html)
-* [🤷 Why do the Django and Python communities use so many Google Forms? ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;17&#x2F;why-do-the.html)
-* [New project to shorten django-admin to django because we are not monsters](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;14&#x2F;new-project-to.html)
-* [📓 Weeknotes for Week 48: November 25 to December 1](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;01&#x2F;weeknotes-for-week.html)
-* [📓 Weeknotes for Week 47: November 18 to 24](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;25&#x2F;weeknotes-for-week.html)
+* [🐚 My most used commands in my terminal history](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;02&#x2F;my-most-used-commands-in&#x2F;)
+* [🎊 Year in review (short version) - It was a good year](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;01&#x2F;year-in-review-short-version&#x2F;)
+* [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;31&#x2F;github-stars-are-only-good&#x2F;)
+* [🎄 Weeknotes for Week 51: December 15 to December 21](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;22&#x2F;weeknotes-for-week-december-to&#x2F;)
+* [🗓️ December 21, 2024, is Volunteer Responsibility Amnesty Day](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;20&#x2F;december-is-volunteer-responsibility-amnesty&#x2F;)
+* [Default Apps 2024](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;19&#x2F;default-apps&#x2F;)
+* [🤷 Why do the Django and Python communities use so many Google Forms? ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;17&#x2F;why-do-the-django-and&#x2F;)
+* [New project to shorten django-admin to django because we are not monsters](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;14&#x2F;new-project-to-shorten-djangoadmin&#x2F;)
+* [📓 Weeknotes for Week 48: November 25 to December 1](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;01&#x2F;weeknotes-for-week-november-to&#x2F;)
+* [📓 Weeknotes for Week 47: November 18 to 24](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;11&#x2F;25&#x2F;weeknotes-for-week-november-to&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
