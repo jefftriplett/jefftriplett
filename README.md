@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [django-templated-email-md notes aka if you want to format emails with Markdown, use it](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;django-templated-email-md-notes-aka-if-you-want-to-format-emails-with-markdown-use-it&#x2F;)
 * [🤔 Rethinking Django’s Command-Line Tool: Why We Should Rename &#x60;django-admin&#x60;](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;rethinking-django-s-command-line-tool-why-we-should-rename-django-admin&#x2F;)
 * [🐚 My most used commands in my terminal history](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;my-most-used-commands-in-my-terminal-history&#x2F;)
 * [🎊 Year in review (short version) - It was a good year](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;year-in-review-short-version-it-was-a-good-year&#x2F;)
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;)
-* [🎄 Weeknotes for Week 51: December 15 to December 21](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2024&#x2F;weeknotes-for-week-51-december-15-to-december-21&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
