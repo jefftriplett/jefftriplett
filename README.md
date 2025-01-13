@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🏈 The best NFL broadcast teams and telecast quality, ranked](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;12&#x2F;the-best-nfl-broadcast-teams&#x2F;)
 * [django-templated-email-md notes aka if you want to format emails with Markdown, use it](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;11&#x2F;djangotemplatedemailmd-notes-aka-if-you&#x2F;)
 * [🤔 Rethinking Django&#39;s Command-Line Tool: Why We Should Rename &#x60;django-admin&#x60;](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;08&#x2F;rethinking-djangos-commandline-tool-why&#x2F;)
 * [🐚 My most used commands in my terminal history](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;02&#x2F;my-most-used-commands-in&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🗓️ December 21, 2024, is Volunteer Responsibility Amnesty Day](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;20&#x2F;december-is-volunteer-responsibility-amnesty&#x2F;)
 * [Default Apps 2024](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;19&#x2F;default-apps&#x2F;)
 * [🤷 Why do the Django and Python communities use so many Google Forms? ](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;17&#x2F;why-do-the-django-and&#x2F;)
-* [New project to shorten django-admin to django because we are not monsters](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;14&#x2F;new-project-to-shorten-djangoadmin&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
