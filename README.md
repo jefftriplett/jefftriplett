@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🗓️ Office Hours at a Glance](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;02&#x2F;19&#x2F;office-hours-at-a-glance&#x2F;)
 * [🤖 My big list of AI&#x2F;LLM tools, notes, and how I&#39;m using them](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;29&#x2F;my-big-list-of-aillm&#x2F;)
 * [Python Click, django-click, and Typer notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;22&#x2F;python-click-djangoclick-and-typer&#x2F;)
 * [📩 Email, Calendars, and the Chaos of Modern Workflows](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;15&#x2F;email-calendars-and-the-chaos&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🐚 My most used commands in my terminal history](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;02&#x2F;my-most-used-commands-in&#x2F;)
 * [🎊 Year in review (short version) - It was a good year](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;01&#x2F;year-in-review-short-version&#x2F;)
 * [](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;31&#x2F;github-stars-are-only-good&#x2F;)
-* [🎄 Weeknotes for Week 51: December 15 to December 21](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2024&#x2F;12&#x2F;22&#x2F;weeknotes-for-week-december-to&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
