@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 Ideas for &quot;The Levels of Claude&quot; Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;05&#x2F;ideas-for-the-levels-of&#x2F;)
 * [🤖 &quot;Agents&quot; are Cheat Codes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;02&#x2F;agents-are-cheat-codes&#x2F;)
 * [🗓️ Office Hours at a Glance](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;02&#x2F;19&#x2F;office-hours-at-a-glance&#x2F;)
 * [🤖 My big list of AI&#x2F;LLM tools, notes, and how I&#39;m using them](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;29&#x2F;my-big-list-of-aillm&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [django-templated-email-md notes aka if you want to format emails with Markdown, use it](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;11&#x2F;djangotemplatedemailmd-notes-aka-if-you&#x2F;)
 * [🤔 Rethinking Django&#39;s Command-Line Tool: Why We Should Rename &#x60;django-admin&#x60;](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;08&#x2F;rethinking-djangos-commandline-tool-why&#x2F;)
 * [🐚 My most used commands in my terminal history](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;02&#x2F;my-most-used-commands-in&#x2F;)
-* [🎊 Year in review (short version) - It was a good year](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;01&#x2F;year-in-review-short-version&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
