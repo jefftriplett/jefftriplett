@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;a-better-django-version-update-command-and-prompt-driven-development&#x2F;)
 * [🤖 Ideas for “The Levels of Claude” Notes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;ideas-for-the-levels-of-claude-notes&#x2F;)
 * [🤖 “Agents” are Cheat Codes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;agents-are-cheat-codes&#x2F;)
 * [🗓️ Office Hours at a Glance](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-at-a-glance&#x2F;)
 * [🤖 My big list of AI&#x2F;LLM tools, notes, and how I’m using them](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;my-big-list-of-ai-llm-tools-notes-and-how-i-m-using-them&#x2F;)
-* [Python Click, django-click, and Typer notes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;python-click-django-click-and-typer-notes&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
