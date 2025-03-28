@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [⚾ On Daring Fireball Gate](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;27&#x2F;on-daring-fireball-gate&#x2F;)
 * [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;26&#x2F;a-better-django-versionupdate-command&#x2F;)
 * [🤖 Ideas for &quot;The Levels of Claude&quot; Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;05&#x2F;ideas-for-the-levels-of&#x2F;)
 * [🤖 &quot;Agents&quot; are Cheat Codes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;02&#x2F;agents-are-cheat-codes&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📩 Email, Calendars, and the Chaos of Modern Workflows](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;15&#x2F;email-calendars-and-the-chaos&#x2F;)
 * [🏈 The best NFL broadcast teams and telecast quality, ranked](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;12&#x2F;the-best-nfl-broadcast-teams&#x2F;)
 * [django-templated-email-md notes aka if you want to format emails with Markdown, use it](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;11&#x2F;djangotemplatedemailmd-notes-aka-if-you&#x2F;)
-* [🤔 Rethinking Django&#39;s Command-Line Tool: Why We Should Rename &#x60;django-admin&#x60;](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;08&#x2F;rethinking-djangos-commandline-tool-why&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
