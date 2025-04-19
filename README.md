@@ -23,7 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
-* [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;01&#x2F;announcing-the-great-django-webring&#x2F;)
+* [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;18&#x2F;announcing-the-great-django-webring&#x2F;)
 * [⚾ On Daring Fireball Gate](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;27&#x2F;on-daring-fireball-gate&#x2F;)
 * [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;26&#x2F;a-better-django-versionupdate-command&#x2F;)
 * [🤖 Ideas for &quot;The Levels of Claude&quot; Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;05&#x2F;ideas-for-the-levels-of&#x2F;)
