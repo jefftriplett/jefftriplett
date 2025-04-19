@@ -59,10 +59,10 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <!--START_SECTION:posts-->
 * [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;announcing-the-great-django-webring&#x2F;)
+* [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;announcing-the-great-django-webring&#x2F;)
 * [⚾ On Daring Fireball Gate](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;on-daring-fireball-gate&#x2F;)
 * [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;a-better-django-version-update-command-and-prompt-driven-development&#x2F;)
 * [🤖 Ideas for “The Levels of Claude” Notes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;ideas-for-the-levels-of-claude-notes&#x2F;)
-* [🤖 “Agents” are Cheat Codes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;agents-are-cheat-codes&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
