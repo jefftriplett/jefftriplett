@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 Voice Dictation with AI and my MacWhisper Workflow](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;30&#x2F;voice-dictation-with-ai-and&#x2F;)
 * [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;18&#x2F;announcing-the-great-django-webring&#x2F;)
 * [⚾ On Daring Fireball Gate](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;27&#x2F;on-daring-fireball-gate&#x2F;)
 * [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;26&#x2F;a-better-django-versionupdate-command&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🤖 My big list of AI&#x2F;LLM tools, notes, and how I&#39;m using them](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;29&#x2F;my-big-list-of-aillm&#x2F;)
 * [Python Click, django-click, and Typer notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;22&#x2F;python-click-djangoclick-and-typer&#x2F;)
 * [📩 Email, Calendars, and the Chaos of Modern Workflows](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;15&#x2F;email-calendars-and-the-chaos&#x2F;)
-* [🏈 The best NFL broadcast teams and telecast quality, ranked](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;12&#x2F;the-best-nfl-broadcast-teams&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
