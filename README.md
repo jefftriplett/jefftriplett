@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🗓️ Office Hours for May 2025](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-may-2025&#x2F;)
 * [🤖 Voice Dictation with AI and my MacWhisper Workflow](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;voice-dictation-with-ai-and-my-macwhisper-workflow&#x2F;)
 * [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;announcing-the-great-django-webring&#x2F;)
 * [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;announcing-the-great-django-webring&#x2F;)
 * [⚾ On Daring Fireball Gate](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;on-daring-fireball-gate&#x2F;)
-* [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;a-better-django-version-update-command-and-prompt-driven-development&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
