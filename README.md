@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [TIL Poppler&#39;s pdftoppm to convert PDF pages into PNG files](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;21&#x2F;til-popplers-pdftoppm-to-convert&#x2F;)
 * [🤷‍♂️ I miss Visual Basic](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;11&#x2F;i-miss-visual-basic&#x2F;)
 * [🗓️ Office Hours for May 2025](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;08&#x2F;office-hours-for-may&#x2F;)
 * [🤖 Voice Dictation with AI and my MacWhisper Workflow](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;30&#x2F;voice-dictation-with-ai-and&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🤖 Ideas for &quot;The Levels of Claude&quot; Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;05&#x2F;ideas-for-the-levels-of&#x2F;)
 * [🤖 &quot;Agents&quot; are Cheat Codes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;02&#x2F;agents-are-cheat-codes&#x2F;)
 * [🗓️ Office Hours at a Glance](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;02&#x2F;19&#x2F;office-hours-at-a-glance&#x2F;)
-* [🤖 My big list of AI&#x2F;LLM tools, notes, and how I&#39;m using them](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;01&#x2F;29&#x2F;my-big-list-of-aillm&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
