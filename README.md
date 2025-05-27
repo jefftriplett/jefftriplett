@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 When AI Agents Start Panicking: Wild Emails from a Failing Vending Business](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;26&#x2F;when-ai-agents-start-panicking&#x2F;)
 * [TIL Poppler&#39;s pdftoppm to convert PDF pages into PNG files](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;21&#x2F;til-popplers-pdftoppm-to-convert&#x2F;)
 * [🤷‍♂️ I miss Visual Basic](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;11&#x2F;i-miss-visual-basic&#x2F;)
 * [🗓️ Office Hours for May 2025](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;08&#x2F;office-hours-for-may&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;26&#x2F;a-better-django-versionupdate-command&#x2F;)
 * [🤖 Ideas for &quot;The Levels of Claude&quot; Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;05&#x2F;ideas-for-the-levels-of&#x2F;)
 * [🤖 &quot;Agents&quot; are Cheat Codes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;02&#x2F;agents-are-cheat-codes&#x2F;)
-* [🗓️ Office Hours at a Glance](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;02&#x2F;19&#x2F;office-hours-at-a-glance&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
