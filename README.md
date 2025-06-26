@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 Building with AI: A Summer Reading Collection](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;06&#x2F;25&#x2F;building-with-ai-a-summer&#x2F;)
 * [🗓️ Office Hours for June](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;29&#x2F;office-hours-for-june&#x2F;)
 * [🤖 When AI Agents Start Panicking: Wild Emails from a Failing Vending Business](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;26&#x2F;when-ai-agents-start-panicking&#x2F;)
 * [TIL Poppler&#39;s pdftoppm to convert PDF pages into PNG files](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;21&#x2F;til-popplers-pdftoppm-to-convert&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;18&#x2F;announcing-the-great-django-webring&#x2F;)
 * [⚾ On Daring Fireball Gate](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;27&#x2F;on-daring-fireball-gate&#x2F;)
 * [🤖 A better Django version&#x2F;update command and Prompt-driven-development](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;26&#x2F;a-better-django-versionupdate-command&#x2F;)
-* [🤖 Ideas for &quot;The Levels of Claude&quot; Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;05&#x2F;ideas-for-the-levels-of&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
