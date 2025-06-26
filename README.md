@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🤖 Building with AI: A Summer Reading Collection](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;building-with-ai-a-summer-reading-collection&#x2F;)
 * [🗓️ Office Hours for June](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-june&#x2F;)
 * [🤖 When AI Agents Start Panicking: Wild Emails from a Failing Vending Business](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;when-ai-agents-start-panicking-wild-emails-from-a-failing-vending-business&#x2F;)
 * [TIL Poppler’s pdftoppm to convert PDF pages into PNG files](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;til-poppler-s-pdftoppm-to-convert-pdf-pages-into-png-files&#x2F;)
 * [🤷‍♂️ I miss Visual Basic](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;i-miss-visual-basic&#x2F;)
-* [🗓️ Office Hours for May 2025](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-may-2025&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
