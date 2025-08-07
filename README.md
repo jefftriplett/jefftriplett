@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🤖 VibeOps: Using Claude Code on Cheap VPS Servers](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;vibeops-using-claude-code-on-cheap-vps-servers&#x2F;)
 * [Ditching Cloud APIs: How I Set Up Local Text-to-Speech with Kokoro TTS and Python](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;ditching-cloud-apis-how-i-set-up-local-text-to-speech-with-kokoro-tts-and-python&#x2F;)
 * [🤖 Building with AI: A Summer Reading Collection](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;building-with-ai-a-summer-reading-collection&#x2F;)
 * [🗓️ Office Hours for June](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-june&#x2F;)
 * [🤖 When AI Agents Start Panicking: Wild Emails from a Failing Vending Business](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;when-ai-agents-start-panicking-wild-emails-from-a-failing-vending-business&#x2F;)
-* [TIL Poppler’s pdftoppm to convert PDF pages into PNG files](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;til-poppler-s-pdftoppm-to-convert-pdf-pages-into-png-files&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
