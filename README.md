@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 VibeOps: Using Claude Code on Cheap VPS Servers](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;06&#x2F;vibeops-using-claude-code-on&#x2F;)
 * [Ditching Cloud APIs: How I Set Up Local Text-to-Speech with Kokoro TTS and Python](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;07&#x2F;02&#x2F;ditching-cloud-apis-how-i&#x2F;)
 * [🤖 Building with AI: A Summer Reading Collection](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;06&#x2F;25&#x2F;building-with-ai-a-summer&#x2F;)
 * [🗓️ Office Hours for June](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;29&#x2F;office-hours-for-june&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🗓️ Office Hours for May 2025](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;08&#x2F;office-hours-for-may&#x2F;)
 * [🤖 Voice Dictation with AI and my MacWhisper Workflow](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;30&#x2F;voice-dictation-with-ai-and&#x2F;)
 * [💍 Announcing The Great Django Webring](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;04&#x2F;18&#x2F;announcing-the-great-django-webring&#x2F;)
-* [⚾ On Daring Fireball Gate](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;03&#x2F;27&#x2F;on-daring-fireball-gate&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
