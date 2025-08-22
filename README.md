@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [🗓️ Office Hours for Late August](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-late-august&#x2F;)
 * [Syncthing 2.0 Upgrade Notes](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;syncthing-2-0-upgrade-notes&#x2F;)
 * [🤖 VibeOps: Using Claude Code on Cheap VPS Servers](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;vibeops-using-claude-code-on-cheap-vps-servers&#x2F;)
 * [Ditching Cloud APIs: How I Set Up Local Text-to-Speech with Kokoro TTS and Python](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;ditching-cloud-apis-how-i-set-up-local-text-to-speech-with-kokoro-tts-and-python&#x2F;)
 * [🤖 Building with AI: A Summer Reading Collection](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;building-with-ai-a-summer-reading-collection&#x2F;)
-* [🗓️ Office Hours for June](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-june&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
