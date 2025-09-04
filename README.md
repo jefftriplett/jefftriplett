@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [My DjangoCon US 2025 Plans (and How to Find Me)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;09&#x2F;03&#x2F;my-djangocon-us-plans-and&#x2F;)
 * [🗓️ Office Hours for Late August](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;21&#x2F;office-hours-for-late-august&#x2F;)
 * [Syncthing 2.0 Upgrade Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;13&#x2F;syncthing-upgrade-notes&#x2F;)
 * [🤖 VibeOps: Using Claude Code on Cheap VPS Servers](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;06&#x2F;vibeops-using-claude-code-on&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🤖 When AI Agents Start Panicking: Wild Emails from a Failing Vending Business](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;26&#x2F;when-ai-agents-start-panicking&#x2F;)
 * [TIL Poppler&#39;s pdftoppm to convert PDF pages into PNG files](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;21&#x2F;til-popplers-pdftoppm-to-convert&#x2F;)
 * [🤷‍♂️ I miss Visual Basic](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;11&#x2F;i-miss-visual-basic&#x2F;)
-* [🗓️ Office Hours for May 2025](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;05&#x2F;08&#x2F;office-hours-for-may&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
