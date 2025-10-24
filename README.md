@@ -40,11 +40,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - Django 6.0 beta 1 released - Oct 24th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;308)
 * [Django News - 2025 Malcolm Tredinnick Memorial Prize awarded to Tim Schilling - Oct 17th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;307)
 * [Django News - 🥧 Python 3.14 is released!  - Oct 10th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;306)
 * [Django News - Wagtail Space 2025 - Oct 3rd 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;305)
 * [Django News - django.tasks exists - Sep 26th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;304)
-* [Django News - Django 6.0 Feature Freeze - Sep 19th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;303)
 <!--END_SECTION:news-->
 
 <hr>
