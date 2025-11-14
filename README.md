@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [📅 Office Hours for November](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-november&#x2F;)
 * [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;)
 * [🤖 On GitHub Copilot CLI and prompts as code](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;on-github-copilot-cli-and-prompts-as-code&#x2F;)
 * [⛔ I Do Not Want Discord’s Nitro](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;i-do-not-want-discord-s-nitro&#x2F;)
 * [My DjangoCon US 2025 Plans (and How to Find Me)](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;my-djangocon-us-2025-plans-and-how-to-find-me&#x2F;)
-* [🗓️ Office Hours for Late August](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-late-august&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
