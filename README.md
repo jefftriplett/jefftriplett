@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [🤖 How I Accidentally Spent Over 62 Million OpenAI Tokens](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;22&#x2F;how-i-accidentally-spent-over&#x2F;)
 * [The &quot;Vibe Coding Keyboard&quot; How I Made My Walk-and-Talk Setup Even More Awesome](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;19&#x2F;the-vibe-coding-keyboard-how&#x2F;)
 * [📅 Office Hours for November](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;13&#x2F;office-hours-for-november&#x2F;)
 * [Default Apps 2025](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;10&#x2F;29&#x2F;default-apps-here-are-my&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [🗓️ Office Hours for Late August](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;21&#x2F;office-hours-for-late-august&#x2F;)
 * [Syncthing 2.0 Upgrade Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;13&#x2F;syncthing-upgrade-notes&#x2F;)
 * [🤖 VibeOps: Using Claude Code on Cheap VPS Servers](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;06&#x2F;vibeops-using-claude-code-on&#x2F;)
-* [Ditching Cloud APIs: How I Set Up Local Text-to-Speech with Kokoro TTS and Python](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;07&#x2F;02&#x2F;ditching-cloud-apis-how-i&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
