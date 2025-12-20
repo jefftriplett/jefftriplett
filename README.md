@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
-* [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;2025-11-19-the-vibe-coding-keyboard-how-i-made-my-walk-and-talk-setup-even-more-awesome&#x2F;)
 * [🤖 Trying Out GLM with Claude Code](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;trying-out-glm-with-claude-code&#x2F;)
 * [🤖 How I Accidentally Spent Over 62 Million OpenAI Tokens](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;how-i-accidentally-spent-over-62-million-openai-tokens&#x2F;)
+* [The “Vibe Coding Keyboard” How I Made My Walk-and-Talk Setup Even More Awesome](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;the-vibe-coding-keyboard-how-i-made-my-walk-and-talk-setup-even-more-awesome&#x2F;)
 * [📅 Office Hours for November](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;office-hours-for-november&#x2F;)
-* [[object Object]](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;)
+* [Default Apps 2025](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;default-apps-2025&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
