@@ -40,11 +40,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - Django Packages Refresh - Jan 16th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;320)
 * [Django News - Django Bugfixes, Community Wins, and What’s NextIssue 319 - Jan 9th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;319)
 * [Django News - 🎮 Django Is Now a Video Game Framework - Jan 2nd 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;318)
 * [Django News - Happy Holidays and 95% there! - Dec 26th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;317)
 * [Django News - New Django Software Foundation Board and Year-End Fundraiser - Dec 19th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;316)
-* [Django News - DjangoCon Europe 2026 CFPs - Dec 12th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;315)
 <!--END_SECTION:news-->
 
 <hr>
