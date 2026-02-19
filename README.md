@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [My displays keep rearranging and displayplacer fixed it](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;02&#x2F;18&#x2F;my-displays-keep-rearranging-and&#x2F;)
 * [🤖 Trying Out GLM with Claude Code](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;12&#x2F;10&#x2F;trying-out-glm-with-claude&#x2F;)
 * [🤖 How I Accidentally Spent Over 62 Million OpenAI Tokens](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;22&#x2F;how-i-accidentally-spent-over&#x2F;)
 * [The &quot;Vibe Coding Keyboard&quot; How I Made My Walk-and-Talk Setup Even More Awesome](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;19&#x2F;the-vibe-coding-keyboard-how&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [⛔ I Do Not Want Discord&#39;s Nitro](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;09&#x2F;24&#x2F;i-do-not-want-discords&#x2F;)
 * [My DjangoCon US 2025 Plans (and How to Find Me)](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;09&#x2F;03&#x2F;my-djangocon-us-plans-and&#x2F;)
 * [🗓️ Office Hours for Late August](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;21&#x2F;office-hours-for-late-august&#x2F;)
-* [Syncthing 2.0 Upgrade Notes](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;08&#x2F;13&#x2F;syncthing-upgrade-notes&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
