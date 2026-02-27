@@ -58,11 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [How I Use django-simple-nav for Dashboards, Command Palettes, and More](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-use-django-simple-nav-for-dashboards-command-palettes-and-more&#x2F;)
 * [Jordan Baird’s Ice beta fixed my macOS Tahoe menu bar issues](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;jordan-baird-s-ice-beta-fixed-my-macos-tahoe-menu-bar-issues&#x2F;)
 * [My displays keep rearranging and displayplacer fixed it](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;my-displays-keep-rearranging-and-displayplacer-fixed-it&#x2F;)
 * [🤖 Trying Out GLM with Claude Code](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;trying-out-glm-with-claude-code&#x2F;)
 * [🤖 How I Accidentally Spent Over 62 Million OpenAI Tokens](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;how-i-accidentally-spent-over-62-million-openai-tokens&#x2F;)
-* [The “Vibe Coding Keyboard” How I Made My Walk-and-Talk Setup Even More Awesome](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2025&#x2F;the-vibe-coding-keyboard-how-i-made-my-walk-and-talk-setup-even-more-awesome&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
