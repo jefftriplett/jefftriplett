@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [DjangoCon US Talks I&#39;d Like to See 2026 Edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;03&#x2F;19&#x2F;djangocon-us-talks-id-like&#x2F;)
 * [How I Use django-simple-nav for Dashboards, Command Palettes, and More](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;02&#x2F;26&#x2F;how-i-use-djangosimplenav-for&#x2F;)
 * [Jordan Baird&#39;s Ice beta fixed my macOS Tahoe menu bar issues](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;02&#x2F;19&#x2F;jordan-bairds-ice-beta-fixed&#x2F;)
 * [My displays keep rearranging and displayplacer fixed it](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;02&#x2F;18&#x2F;my-displays-keep-rearranging-and&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [📅 Office Hours for November](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;13&#x2F;office-hours-for-november&#x2F;)
 * [Default Apps 2025](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;10&#x2F;29&#x2F;default-apps-here-are-my&#x2F;)
 * [🤖 On GitHub Copilot CLI and prompts as code](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;10&#x2F;04&#x2F;on-github-copilot-cli-and&#x2F;)
-* [⛔ I Do Not Want Discord&#39;s Nitro](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;09&#x2F;24&#x2F;i-do-not-want-discords&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
