@@ -40,11 +40,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Django News - DjangoCon Europe Next Week! - Apr 10th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;332)
 * [Django News - Supply Chain Wake-Up Call - Apr 3rd 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;331)
 * [Django News - Balancing the AI Flood in Django - Mar 27th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;330)
 * [Django News - Sunsetting Jazzband - Mar 20th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;329)
 * [Django News - 21 PRs in One Week to Django Core! - Mar 13th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;328)
-* [Django News - Django Security Fixes, Python Releases, and New Tools - Mar 6th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;327)
 <!--END_SECTION:news-->
 
 <hr>
