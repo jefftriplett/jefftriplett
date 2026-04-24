@@ -40,11 +40,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
-* [Django News - 30% Off PyCharm Pro – 100% for Django - Apr 17th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;333)
-* [Django News - DjangoCon Europe Next Week! - Apr 10th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;332)
-* [Django News - Supply Chain Wake-Up Call - Apr 3rd 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;331)
-* [Django News - Balancing the AI Flood in Django - Mar 27th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;330)
-* [Django News - Sunsetting Jazzband - Mar 20th 2026](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;329)
+* [Issue 334: New look, new home, same everything else](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-334-new-look-new-home-same-everything-else&#x2F;)
+* [Issue 333: Django News - 30% Off PyCharm Pro – 100% for Django](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-333-django-news-30-off-pycharm-pro-100-for&#x2F;)
+* [DjangoCon Europe Next Week!](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;djangocon-europe-next-week&#x2F;)
+* [Supply Chain Wake-Up Call](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;supply-chain-wake-up-call&#x2F;)
+* [Balancing the AI Flood in Django](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;balancing-the-ai-flood-in-django&#x2F;)
 <!--END_SECTION:news-->
 
 <hr>
