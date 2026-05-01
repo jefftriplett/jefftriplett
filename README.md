@@ -23,6 +23,7 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
+* [Django Chat Podcast: E201](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;04&#x2F;30&#x2F;djangochat-podcast-e&#x2F;)
 * [DjangoCon US Talks I&#39;d Like to See 2026 Edition](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;03&#x2F;19&#x2F;djangocon-us-talks-id-like&#x2F;)
 * [How I Use django-simple-nav for Dashboards, Command Palettes, and More](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;02&#x2F;26&#x2F;how-i-use-djangosimplenav-for&#x2F;)
 * [Jordan Baird&#39;s Ice beta fixed my macOS Tahoe menu bar issues](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2026&#x2F;02&#x2F;19&#x2F;jordan-bairds-ice-beta-fixed&#x2F;)
@@ -32,7 +33,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [The &quot;Vibe Coding Keyboard&quot; How I Made My Walk-and-Talk Setup Even More Awesome](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;19&#x2F;the-vibe-coding-keyboard-how&#x2F;)
 * [📅 Office Hours for November](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;13&#x2F;office-hours-for-november&#x2F;)
 * [Default Apps 2025](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;10&#x2F;29&#x2F;default-apps-here-are-my&#x2F;)
-* [🤖 On GitHub Copilot CLI and prompts as code](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;10&#x2F;04&#x2F;on-github-copilot-cli-and&#x2F;)
 <!--END_SECTION:micro-posts-->
 
 <hr>
