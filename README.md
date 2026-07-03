@@ -40,11 +40,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Issue 344: Happy Birthday Djangonaut Space!](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-344-happy-birthday-djangonaut-space&#x2F;)
 * [Issue 343: Django 6.1 beta 1 released](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-343-django-61-beta-1-released&#x2F;)
 * [Issue 342: DSF Executive Director Search](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-342-dsf-executive-director-search&#x2F;)
 * [Issue 341: Django 2026 Fundraising Goals](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-341-django-2026-fundraising-goals&#x2F;)
 * [Issue 340: Django security releases 6.0.6 and 5.2.15](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-340-django-security-releases-606-and-5215&#x2F;)
-* [Issue 339: Early Bird DjangoCon US Tickets Ending Soon](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-339-early-bird-djangocon-tickets-ending-soon&#x2F;)
 <!--END_SECTION:news-->
 
 <hr>
