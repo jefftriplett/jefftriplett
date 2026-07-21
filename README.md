@@ -6,6 +6,18 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <hr>
 
+## Recent Blog Posts
+
+<!--START_SECTION:posts-->
+* [How I Work From Anywhere Without Losing My Place](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-work-from-anywhere-without-losing-my-place&#x2F;)
+* [Django Chat Podcast: E201](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;django-chat-podcast-e201&#x2F;)
+* [DjangoCon US Talks I’d Like to See 2026 Edition](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;djangocon-us-talks-i-d-like-to-see-2026-edition&#x2F;)
+* [How I Use django-simple-nav for Dashboards, Command Palettes, and More](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-use-django-simple-nav-for-dashboards-command-palettes-and-more&#x2F;)
+* [Jordan Baird’s Ice beta fixed my macOS Tahoe menu bar issues](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;jordan-baird-s-ice-beta-fixed-my-macos-tahoe-menu-bar-issues&#x2F;)
+<!--END_SECTION:posts-->
+
+<hr>
+
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
@@ -38,18 +50,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## GitHub Stats
 
 ![Jeff Triplett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefftriplett&show_icons=&private_count=true&theme=dracula)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact&theme=dracula)]()
-
-<hr>
-
-## Recent Blog Posts
-
-<!--START_SECTION:posts-->
-* [How I Work From Anywhere Without Losing My Place](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-work-from-anywhere-without-losing-my-place&#x2F;)
-* [Django Chat Podcast: E201](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;django-chat-podcast-e201&#x2F;)
-* [DjangoCon US Talks I’d Like to See 2026 Edition](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;djangocon-us-talks-i-d-like-to-see-2026-edition&#x2F;)
-* [How I Use django-simple-nav for Dashboards, Command Palettes, and More](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-use-django-simple-nav-for-dashboards-command-palettes-and-more&#x2F;)
-* [Jordan Baird’s Ice beta fixed my macOS Tahoe menu bar issues](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;jordan-baird-s-ice-beta-fixed-my-macos-tahoe-menu-bar-issues&#x2F;)
-<!--END_SECTION:posts-->
 
 <hr>
 
