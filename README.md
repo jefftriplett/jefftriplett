@@ -6,20 +6,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <hr>
 
-## Affiliations
-
-<table border="0">
-<tr>
-<td><a href="https://github.com/revsys/"><img src="https://avatars.githubusercontent.com/u/308096?s=200&v=4" width="100px"></a></td>
-<td><a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="100px"></a></td>
-<td><a href="https://github.com/djangocon/"><img src="https://avatars.githubusercontent.com/u/2891658?s=400&&v=4" width="100px"></a></td>
-<td><a href="https://github.com/defna/"><img src="https://avatars.githubusercontent.com/u/13454395?s=200&v=4" width="100px"></a></td>
-<td><a href="https://github.com/djangopackages/"><img src="https://avatars.githubusercontent.com/u/27385825?s=200&v=4" width="100px"></a></td>
-</tr>
-</table>
-
-<hr>
-
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
@@ -64,6 +50,20 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [How I Use django-simple-nav for Dashboards, Command Palettes, and More](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-use-django-simple-nav-for-dashboards-command-palettes-and-more&#x2F;)
 * [Jordan Baird’s Ice beta fixed my macOS Tahoe menu bar issues](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;jordan-baird-s-ice-beta-fixed-my-macos-tahoe-menu-bar-issues&#x2F;)
 <!--END_SECTION:posts-->
+
+<hr>
+
+## Affiliations
+
+<table border="0">
+<tr>
+<td><a href="https://github.com/revsys/"><img src="https://avatars.githubusercontent.com/u/308096?s=200&v=4" width="100px"></a></td>
+<td><a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="100px"></a></td>
+<td><a href="https://github.com/djangocon/"><img src="https://avatars.githubusercontent.com/u/2891658?s=400&&v=4" width="100px"></a></td>
+<td><a href="https://github.com/defna/"><img src="https://avatars.githubusercontent.com/u/13454395?s=200&v=4" width="100px"></a></td>
+<td><a href="https://github.com/djangopackages/"><img src="https://avatars.githubusercontent.com/u/27385825?s=200&v=4" width="100px"></a></td>
+</tr>
+</table>
 
 <hr>
 
