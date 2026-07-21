@@ -58,10 +58,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 <table border="0">
 <tr>
 <td><a href="https://github.com/revsys/"><img src="https://avatars.githubusercontent.com/u/308096?s=200&v=4" width="100px"></a></td>
-<td><a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="100px"></a></td>
 <td><a href="https://github.com/djangocon/"><img src="https://avatars.githubusercontent.com/u/2891658?s=400&&v=4" width="100px"></a></td>
 <td><a href="https://github.com/defna/"><img src="https://avatars.githubusercontent.com/u/13454395?s=200&v=4" width="100px"></a></td>
 <td><a href="https://github.com/djangopackages/"><img src="https://avatars.githubusercontent.com/u/27385825?s=200&v=4" width="100px"></a></td>
+<td><a href="https://github.com/django/"><img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" width="100px"></a></td>
+<td><a href="https://github.com/psf/"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="100px"></a></td>
 </tr>
 </table>
 
