@@ -18,6 +18,18 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 
 <hr>
 
+## Recent Django News
+
+<!--START_SECTION:news-->
+* [Issue 346: Supporting the Triptych Project](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-346-supporting-the-triptych-project&#x2F;)
+* [Issue 345: Django security releases issued: 6.0.7 and 5.2.16](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-345-django-security-releases-issued-607-and&#x2F;)
+* [Issue 344: Happy Birthday Djangonaut Space!](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-344-happy-birthday-djangonaut-space&#x2F;)
+* [Issue 343: Django 6.1 beta 1 released](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-343-django-61-beta-1-released&#x2F;)
+* [Issue 342: DSF Executive Director Search](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-342-dsf-executive-director-search&#x2F;)
+<!--END_SECTION:news-->
+
+<hr>
+
 ## Recent Micro Blog Posts
 
 <!--START_SECTION:micro-posts-->
@@ -32,18 +44,6 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 * [The &quot;Vibe Coding Keyboard&quot; How I Made My Walk-and-Talk Setup Even More Awesome](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;19&#x2F;the-vibe-coding-keyboard-how&#x2F;)
 * [📅 Office Hours for November](https:&#x2F;&#x2F;micro.webology.dev&#x2F;2025&#x2F;11&#x2F;13&#x2F;office-hours-for-november&#x2F;)
 <!--END_SECTION:micro-posts-->
-
-<hr>
-
-## Recent Django News
-
-<!--START_SECTION:news-->
-* [Issue 346: Supporting the Triptych Project](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-346-supporting-the-triptych-project&#x2F;)
-* [Issue 345: Django security releases issued: 6.0.7 and 5.2.16](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-345-django-security-releases-issued-607-and&#x2F;)
-* [Issue 344: Happy Birthday Djangonaut Space!](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-344-happy-birthday-djangonaut-space&#x2F;)
-* [Issue 343: Django 6.1 beta 1 released](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-343-django-61-beta-1-released&#x2F;)
-* [Issue 342: DSF Executive Director Search](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-342-dsf-executive-director-search&#x2F;)
-<!--END_SECTION:news-->
 
 <hr>
 
