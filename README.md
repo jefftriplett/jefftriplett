@@ -9,11 +9,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
-* [How I Work From Anywhere Without Losing My Place](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-work-from-anywhere-without-losing-my-place&#x2F;)
-* [Django Chat Podcast: E201](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;django-chat-podcast-e201&#x2F;)
-* [DjangoCon US Talks I’d Like to See 2026 Edition](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;djangocon-us-talks-i-d-like-to-see-2026-edition&#x2F;)
-* [How I Use django-simple-nav for Dashboards, Command Palettes, and More](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-use-django-simple-nav-for-dashboards-command-palettes-and-more&#x2F;)
-* [Jordan Baird’s Ice beta fixed my macOS Tahoe menu bar issues](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;jordan-baird-s-ice-beta-fixed-my-macos-tahoe-menu-bar-issues&#x2F;)
+* [How I Work From Anywhere Without Losing My Place](http:&#x2F;&#x2F;example.com&#x2F;posts&#x2F;how-i-work-from-anywhere-without-losing-my-place&#x2F;)
+* [Django Chat Podcast: E201](http:&#x2F;&#x2F;example.com&#x2F;posts&#x2F;django-chat-podcast-e201&#x2F;)
+* [DjangoCon US Talks I&#39;d Like to See 2026 Edition](http:&#x2F;&#x2F;example.com&#x2F;posts&#x2F;djangocon-us-talks-i-d-like-to-see-2026-edition&#x2F;)
+* [How I Use django-simple-nav for Dashboards, Command Palettes, and More](http:&#x2F;&#x2F;example.com&#x2F;posts&#x2F;how-i-use-django-simple-nav-for-dashboards-command-palettes-and-more&#x2F;)
+* [Jordan Baird&#39;s Ice beta fixed my macOS Tahoe menu bar issues](http:&#x2F;&#x2F;example.com&#x2F;posts&#x2F;jordan-baird-s-ice-beta-fixed-my-macos-tahoe-menu-bar-issues&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
