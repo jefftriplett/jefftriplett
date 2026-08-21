@@ -21,11 +21,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Issue 351: DjangoCon US last call, Djangonaut Space applications open](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-351-djangocon-us-last-call-djangonaut-space&#x2F;)
 * [Issue 350: Django moves to an annual release cycle](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-350-django-moves-to-an-annual-release-cycle&#x2F;)
 * [Issue 349: Django 6.1 and a DSF Executive Director](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-349-django-61-and-a-dsf-executive-director&#x2F;)
 * [Issue 348: One month until DjangoCon US](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-348-one-month-until-djangocon-us&#x2F;)
 * [Issue 347: Django 6.1 release candidate 1 released](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-347-django-61-release-candidate-1-released&#x2F;)
-* [Issue 346: Supporting the Triptych Project](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-346-supporting-the-triptych-project&#x2F;)
 <!--END_SECTION:news-->
 
 <hr>
