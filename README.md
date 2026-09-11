@@ -21,11 +21,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Issue 354: DjangoCon US Recaps and the Myth of the Well-Structured Project](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-354-djangocon-us-recaps-and-the-myth-of-the&#x2F;)
 * [Issue 353: DjangoCon US Recaps Galore!](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-353-djangocon-us-recaps-galore&#x2F;)
 * [Issue 352: PyCharm &amp; Django Fall Fundraiser](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-352-pycharm-django-fall-fundraiser&#x2F;)
 * [Issue 351: DjangoCon US last call, Djangonaut Space applications open](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-351-djangocon-us-last-call-djangonaut-space&#x2F;)
 * [Issue 350: Django moves to an annual release cycle](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-350-django-moves-to-an-annual-release-cycle&#x2F;)
-* [Issue 349: Django 6.1 and a DSF Executive Director](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-349-django-61-and-a-dsf-executive-director&#x2F;)
 <!--END_SECTION:news-->
 
 <hr>
