@@ -9,11 +9,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Blog Posts
 
 <!--START_SECTION:posts-->
+* [Default Apps 2026](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;default-apps-2026&#x2F;)
 * [Moving My Websites from Jekyll and Hugo to Django](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;moving-my-websites-from-jekyll-and-hugo-to-django&#x2F;)
 * [Talking Cloud: Managing Agents, Not Writing Code](https:&#x2F;&#x2F;curiousorbit.com&#x2F;podcast&#x2F;jeff-triplett-agent-teams-local-models&#x2F;)
 * [How I Work From Anywhere Without Losing My Place](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;how-i-work-from-anywhere-without-losing-my-place&#x2F;)
 * [Django Chat Podcast: E201](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;django-chat-podcast-e201&#x2F;)
-* [DjangoCon US Talks I&#39;d Like to See 2026 Edition](https:&#x2F;&#x2F;jefftriplett.com&#x2F;2026&#x2F;djangocon-us-talks-i-d-like-to-see-2026-edition&#x2F;)
 <!--END_SECTION:posts-->
 
 <hr>
