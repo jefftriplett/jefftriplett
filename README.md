@@ -21,11 +21,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Issue 360: Python and Wagtail Security Releases](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-360-python-and-wagtail-security-releases&#x2F;)
 * [Issue 359: Python 3.15 Is Here and Python 3.16 Alpha 1](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-359-python-315-is-here-and-python-316-alpha&#x2F;)
 * [Issue 358: Django 6.1.2, 6.0.9, and 5.2.18 Security Releases and Djangonaut Space Session 7](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-358-django-612-609-and-5218-security&#x2F;)
 * [Issue 357: Malcolm Tredinnick Prize Nominations and Django 6.2 Features](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-357-malcolm-tredinnick-prize-nominations&#x2F;)
 * [Issue 356: New technical governance approved for Django](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-356-new-technical-governance-approved&#x2F;)
-* [Issue 355: DjangoCon Europe 2027 in Innsbruck and Django Probe](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-355-djangocon-europe-2027-in-innsbruck&#x2F;)
 <!--END_SECTION:news-->
 
 <hr>
