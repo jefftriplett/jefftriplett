@@ -21,11 +21,11 @@ Python, Django, GitHub Actions, Docker, Jekyll,  - Consultant/Partner [REVSYS][]
 ## Recent Django News
 
 <!--START_SECTION:news-->
+* [Issue 365: PostgreSQL 19 Ships and Black Friday Deals](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-365-postgresql-19-ships-and-black-friday&#x2F;)
 * [Issue 364: 2027 DSF Board Nominations](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-364-2027-dsf-board-nominations&#x2F;)
 * [Issue 363: Wagtail&#39;s new API](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-363-wagtails-new-api&#x2F;)
 * [Issue 362: Django 6.1.3, 6.0.10, and 5.2.19 Security Releases](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-362-django-613-6010-and-5219-security&#x2F;)
 * [Issue 361: DjangoCon Europe and DjangoCon US 2026 Videos Are Out](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-361-djangocon-europe-and-djangocon-us-2026&#x2F;)
-* [Issue 360: Python and Wagtail Security Releases](https:&#x2F;&#x2F;django-news.com&#x2F;archive&#x2F;issue-360-python-and-wagtail-security-releases&#x2F;)
 <!--END_SECTION:news-->
 
 <hr>
